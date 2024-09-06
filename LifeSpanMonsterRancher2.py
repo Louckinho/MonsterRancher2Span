@@ -1,13 +1,14 @@
 import pymem
-import pygetwindow as gw
 import tkinter as tk
 from tkinter import Label
 import threading
 import time
 
-# Endereços de memória reais para o LifeSpan
+# Endereços de memória reais para LifeSpan, Stress e Fatigue
 LIFESPAN_CURRENT_ADDRESS = 0x00E56678  # Endereço para o LifeSpan atual
 LIFESPAN_MAX_ADDRESS = 0x00E56694  # Endereço para o LifeSpan máximo
+STRESS_ADDRESS = 0x00E5669F  # Endereço para o Stress
+FATIGUE_ADDRESS = 0x00E5669B  # Endereço para o Fatigue
 
 
 class MemoryReader(threading.Thread):
@@ -20,12 +21,18 @@ class MemoryReader(threading.Thread):
     def run(self):
         while self.running:
             try:
-                # Pega o LifeSpan atual e máximo do monstro
+                # Pega o LifeSpan atual, LifeSpan máximo, Stress e Fatigue do monstro
                 current_lifespan = self.game.read_int(LIFESPAN_CURRENT_ADDRESS)
-                max_lifespan = self.game.read_short(LIFESPAN_MAX_ADDRESS)
+                max_lifespan = self.game.read_short(
+                    LIFESPAN_MAX_ADDRESS)  # Lê como 2 bytes
+
+                # Lê 1 byte como um inteiro e converte para o intervalo de 0 a 100
+                stress = self.game.read_int(STRESS_ADDRESS) & 0xFF
+                fatigue = self.game.read_int(FATIGUE_ADDRESS) & 0xFF
 
                 # Chama a função de atualização da interface gráfica
-                self.update_callback(current_lifespan, max_lifespan)
+                self.update_callback(
+                    current_lifespan, max_lifespan, stress, fatigue)
 
                 # Aguarda 1 segundo antes de atualizar novamente
                 time.sleep(1)
@@ -37,7 +44,8 @@ class MemoryReader(threading.Thread):
 def create_overlay():
     root = tk.Tk()
     root.overrideredirect(True)
-    root.geometry("200x100+10+10")  # Ajuste a posição conforme necessário
+    # Ajuste a posição e tamanho conforme necessário
+    root.geometry("250x150+10+10")
     root.attributes('-topmost', True)  # Garante que fique no topo
 
     label = Label(root, text="Inicializando...")
@@ -46,10 +54,14 @@ def create_overlay():
     return root, label
 
 
-def update_overlay(label, current_lifespan, max_lifespan):
+def update_overlay(label, current_lifespan, max_lifespan, stress, fatigue):
     # Atualiza o texto na janela de sobreposição
-    label.config(text=f"LifeSpan Atual: {
-                 current_lifespan}\nLifeSpan Máximo: {max_lifespan}")
+    label.config(text=(
+        f"LifeSpan Atual: {current_lifespan}\n"
+        f"LifeSpan Máximo: {max_lifespan}\n"
+        f"Stress: {stress}\n"
+        f"Fatigue: {fatigue}"
+    ))
     label.update_idletasks()  # Atualiza a interface
 
 
@@ -62,7 +74,7 @@ def main():
 
     # Cria uma thread para ler a memória e atualizar a interface
     memory_reader = MemoryReader(
-        game, lambda c, m: update_overlay(label, c, m))
+        game, lambda c, m, s, f: update_overlay(label, c, m, s, f))
     memory_reader.start()
 
     # Loop principal do Tkinter para manter a interface aberta

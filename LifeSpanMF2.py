@@ -3,6 +3,8 @@ import tkinter as tk
 from tkinter import font as tkfont
 import threading
 import time
+import psutil  # Importando psutil para listar processos
+import os
 
 # Endereços de memória reais para LifeSpan, Stress e Fatigue
 LIFESPAN_CURRENT_ADDRESS = 0x00E56678  # Endereço para o LifeSpan atual
@@ -78,7 +80,7 @@ def create_overlay():
     control_panel.pack(fill='x', padx=5, pady=5)
 
     # Cria a área para exibir o texto
-    content = tk.Frame(root, bg='white')
+    content = tk.Frame(root, bg='#F5F5F5')
     content.pack(fill='both', expand=True, padx=10, pady=10)
 
     # Fonte e tamanho padrão
@@ -93,40 +95,14 @@ def create_overlay():
         font = tkfont.Font(family=font_family, size=font_size)
 
     # Label para mostrar o texto
-    label = tk.Label(content, text="Inicializando...", bg='white', font=font)
+    label = tk.Label(content, text="Inicializando...",
+                     bg='#F5F5F5', font=font)
     label.pack(padx=10, pady=10, fill='both', expand=True)
 
-    # Comentado para desativar a seleção de fonte
-    # Fonte e tamanho padrão
-    # font_family = tk.StringVar(value="Consolas")
-    # font_size = tk.IntVar(value=12)
-
-    # Menus de seleção de fonte e tamanho
-    # font_choices = [
-    #     "Arial", "Helvetica", "Times New Roman", "Courier New", "Verdana",
-    #     "Georgia", "Tahoma", "Trebuchet MS", "Comic Sans MS", "Lucida Console",
-    #     "Impact", "Arial Black", "Garamond", "Palatino Linotype", "Consolas",
-    #     "Frank Ruhl", "Fira Sans", "Roboto", "Open Sans", "Lato",
-    #     "Montserrat", "Ubuntu", "Source Sans Pro", "PT Sans", "Noto Sans"
-    # ]
-    # size_choices = [8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30]
-
-    # font_menu = tk.OptionMenu(control_panel, font_family, *font_choices)
-    # font_menu.config(width=15)  # Largura menor
-    # font_menu.pack(side='left', padx=5)
-
-    # size_menu = tk.OptionMenu(control_panel, font_size, *size_choices)
-    # size_menu.config(width=8)  # Largura menor
-    # size_menu.pack(side='left', padx=5)
-
-    def update_font(*args):
-        # Atualiza a fonte da label com base na seleção
-        # label.config(font=(font_family.get(), font_size.get()))
-        pass
-
-    # Atualiza a fonte quando o usuário muda as opções
-    # font_family.trace('w', update_font)
-    # font_size.trace('w', update_font)
+    # Label para mensagens de erro
+    error_label = tk.Label(content, text="", fg='red',
+                           bg='#F5F5F5', font=font)
+    error_label.pack(padx=10, pady=10, fill='both', expand=True)
 
     # Função para mover a janela
     def move_window(event):
@@ -139,10 +115,10 @@ def create_overlay():
     root.bind('<Button-1>', move_window)
     root.bind('<B1-Motion>', resize_window)
 
-    return root, label
+    return root, label, error_label
 
 
-def update_overlay(label, current_lifespan, max_lifespan, stress, fatigue):
+def update_overlay(label, error_label, current_lifespan, max_lifespan, stress, fatigue):
     # Atualiza o texto na janela de sobreposição
     fatigue_message = get_fatigue_message(fatigue)
     stress_message = get_stress_message(stress)
@@ -153,23 +129,43 @@ def update_overlay(label, current_lifespan, max_lifespan, stress, fatigue):
         f"Stress: {stress} ({stress_message})\n"
         f"Fatigue: {fatigue} ({fatigue_message})"
     ))
+    error_label.config(text="")  # Limpa mensagem de erro
     label.update_idletasks()  # Atualiza a interface
 
 
 def main():
-    # Conecte-se ao processo do jogo
-    game_name = "MF2.exe"  # Nome atualizado do executável do jogo
+    # Nome do processo do jogo
+    game_name = "MF2.exe"
+
+    # Verifica se o processo do jogo está em execução usando psutil
+    found = False
+    for proc in psutil.process_iter(['pid', 'name']):
+        if proc.info['name'] == game_name:
+            found = True
+            break
+
+    if not found:
+        print(f"Erro: O jogo {game_name} não foi encontrado.")
+        root, label, error_label = create_overlay()
+        error_label.config(text=f"Erro: O jogo {
+                           game_name} não foi encontrado.")
+        root.mainloop()
+        return
+
     try:
         game = pymem.Pymem(game_name)
     except Exception as e:
         print(f"Erro ao conectar ao processo do jogo: {e}")
+        root, label, error_label = create_overlay()
+        error_label.config(text=f"Erro ao conectar ao processo do jogo: {e}")
+        root.mainloop()
         return
 
-    root, label = create_overlay()
+    root, label, error_label = create_overlay()
 
     # Cria uma thread para ler a memória e atualizar a interface
     memory_reader = MemoryReader(
-        game, lambda c, m, s, f: update_overlay(label, c, m, s, f))
+        game, lambda c, m, s, f: update_overlay(label, error_label, c, m, s, f))
     memory_reader.start()
 
     # Loop principal do Tkinter para manter a interface aberta

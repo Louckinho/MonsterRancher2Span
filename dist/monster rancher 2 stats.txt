@@ -1,0 +1,404 @@
+12) STAT GAINS
+--------------
+
+Monster              |Lif|Pow|Int|Skl|Spd|Def|Tot|Lifespan
+============================================================
+Ape/Ape              | 4 | 4 | 1 | 3 | 3 | 4 |19 | 500 weeks 
+Ape/Gali             | 4 | 4 | 3 | 3 | 3 | 4 |21 | 440 weeks 
+Ape/Golem            | 4 | 4 | 2 | 2 | 2 | 4 |18 | 480 weeks 
+Ape/Hare             | 4 | 4 | 1 | 3 | 4 | 3 |19 | 460 weeks 
+Ape/Plant            | 4 | 3 | 2 | 3 | 3 | 3 |18 | 520 weeks 
+============================================================
+Arrowhead/Arrowhead  | 3 | 3 | 2 | 3 | 2 | 5 |18 | 500 weeks 
+Arrowhead/Durahan    | 3 | 3 | 2 | 3 | 2 | 5 |18 | 500 weeks 
+Arrowhead/Golem      | 3 | 4 | 2 | 2 | 2 | 5 |18 | 480 weeks 
+Arrowhead/Henger     | 3 | 3 | 2 | 3 | 3 | 4 |18 | 460 weeks 
+Arrowhead/Joker      | 3 | 3 | 3 | 4 | 2 | 4 |19 | 440 weeks 
+Arrowhead/Mock       | 2 | 3 | 3 | 3 | 2 | 4 |17 | 520 weeks 
+Arrowhead/Suezo      | 3 | 3 | 3 | 3 | 2 | 4 |18 | 480 weeks 
+============================================================
+Bajarl/Bajarl        | 3 | 4 | 2 | 4 | 3 | 2 |18 | 450 weeks 
+Bajarl/Joker         | 3 | 4 | 3 | 4 | 3 | 2 |19 | 410 weeks 
+Ultrarl              | 3 | 4 | 2 | 4 | 3 | 2 |18 | 470 weeks
+=============================================================
+Baku/Baku            | 5 | 4 | 1 | 2 | 1 | 3 |16 | 500 weeks 
+Baku/Dragon          | 4 | 4 | 3 | 2 | 1 | 3 |17 | 440 weeks 
+Baku/Durahan         | 4 | 4 | 2 | 2 | 1 | 4 |17 | 500 weeks 
+Baku/Golem           | 4 | 4 | 2 | 2 | 1 | 4 |17 | 480 weeks 
+Baku/Hare            | 4 | 4 | 1 | 2 | 3 | 2 |16 | 460 weeks 
+Baku/Jell            | 4 | 3 | 2 | 3 | 1 | 3 |16 | 480 weeks 
+Baku/Joker           | 4 | 4 | 3 | 3 | 1 | 3 |18 | 440 weeks 
+Baku/Kato            | 4 | 3 | 3 | 2 | 3 | 3 |18 | 520 weeks 
+Baku/Tiger           | 4 | 3 | 2 | 3 | 2 | 2 |16 | 460 weeks 
+============================================================
+Beaclon/Bajarl       | 4 | 4 | 1 | 3 | 2 | 3 |17 | 420 weeks 
+Beaclon/Beaclon      | 4 | 4 | 1 | 2 | 2 | 4 |17 | 400 weeks 
+Beaclon/Dragon       | 4 | 4 | 3 | 2 | 2 | 4 |19 | 380 weeks 
+Beaclon/Ducken       | 4 | 4 | 2 | 3 | 3 | 3 |19 | 400 weeks 
+Beaclon/Durahan      | 4 | 4 | 2 | 2 | 2 | 4 |18 | 440 weeks 
+Beaclon/Golem        | 4 | 4 | 2 | 2 | 2 | 4 |18 | 420 weeks 
+Beaclon/Henger       | 3 | 4 | 2 | 3 | 3 | 3 |18 | 400 weeks 
+Beaclon/Joker        | 4 | 4 | 3 | 3 | 2 | 3 |19 | 380 weeks 
+Beaclon/Tiger        | 3 | 3 | 2 | 3 | 3 | 3 |17 | 400 weeks 
+Eggplantern          | 3 | 4 | 2 | 3 | 3 | 3 |18 | 420 weeks
+============================================================
+Centaur/Arrowhead    | 3 | 3 | 3 | 4 | 2 | 3 |18 | 440 weeks 
+Centaur/Bajarl       | 3 | 3 | 3 | 5 | 2 | 2 |18 | 420 weeks 
+Centaur/Centaur      | 3 | 3 | 4 | 5 | 2 | 2 |19 | 400 weeks 
+Centaur/Dragon       | 3 | 4 | 4 | 4 | 2 | 2 |19 | 380 weeks 
+Centaur/Durahan      | 3 | 3 | 4 | 4 | 2 | 3 |19 | 440 weeks 
+Centaur/Golem        | 3 | 4 | 4 | 3 | 2 | 3 |19 | 420 weeks 
+Centaur/Joker        | 3 | 3 | 4 | 5 | 2 | 2 |19 | 380 weeks 
+Centaur/Pixie        | 2 | 3 | 4 | 5 | 3 | 2 |19 | 400 weeks 
+Centaur/Tiger        | 3 | 3 | 4 | 5 | 3 | 2 |20 | 400 weeks 
+Trotter              | 3 | 3 | 4 | 5 | 3 | 2 |20 | 320 weeks
+============================================================
+Cpandora/Cpandora    | 5 | 2 | 2 | 3 | 3 | 1 |18 | 500 weeks 
+Cpandora/Jell        | 4 | 2 | 3 | 3 | 3 | 2 |18 | 480 weeks 
+Cpandora/Pixie       | 3 | 2 | 3 | 3 | 4 | 1 |17 | 460 weeks 
+============================================================
+Dragon/Arrowhead     | 3 | 4 | 4 | 3 | 2 | 4 |20 | 410 weeks 
+Dragon/Bajarl        | 3 | 5 | 4 | 3 | 2 | 3 |20 | 390 weeks 
+Dragon/Beaclon       | 3 | 5 | 3 | 3 | 2 | 3 |19 | 370 weeks 
+Dragon/Dragon        | 3 | 5 | 5 | 3 | 2 | 3 |21 | 350 weeks 
+Dragon/Durahan       | 3 | 5 | 4 | 3 | 2 | 4 |21 | 410 weeks 
+Dragon/Gali          | 3 | 4 | 5 | 3 | 2 | 3 |21 | 350 weeks 
+Dragon/Golem         | 3 | 5 | 4 | 2 | 2 | 4 |20 | 390 weeks 
+Dragon/Henger        | 3 | 5 | 4 | 3 | 3 | 3 |21 | 370 weeks 
+Dragon/Joker         | 3 | 4 | 5 | 4 | 2 | 3 |21 | 350 weeks 
+Dragon/Kato          | 3 | 3 | 5 | 3 | 3 | 3 |20 | 430 weeks 
+Dragon/Metalner      | 3 | 4 | 3 | 4 | 2 | 4 |19 | 390 weeks 
+Dragon/Monol         | 3 | 4 | 4 | 3 | 2 | 4 |19 | 350 weeks 
+Dragon/Pixie         | 2 | 4 | 5 | 3 | 3 | 2 |19 | 370 weeks 
+Dragon/Tiger         | 3 | 4 | 5 | 4 | 3 | 2 |21 | 380 weeks 
+Moo (From Disk)      | 4 | 4 | 1 | 2 | 2 | 4 |17 | 370 weeks
+============================================================
+Ducken/Ducken        | 3 | 3 | 3 | 4 | 5 | 1 |19 | 400 weeks 
+Ducken/Golem         | 3 | 4 | 3 | 3 | 3 | 3 |19 | 420 weeks 
+Ducken/Suezo         | 3 | 3 | 4 | 4 | 4 | 1 |19 | 420 weeks 
+Watermelony          | 3 | 3 | 3 | 4 | 5 | 1 |19 | 420 weeks
+============================================================
+Durahan/Arrowhead    | 3 | 4 | 3 | 3 | 1 | 5 |19 | 500 weeks 
+Durahan/Beaclon      | 3 | 4 | 2 | 3 | 1 | 5 |18 | 460 weeks 
+Durahan/Dragon       | 3 | 4 | 4 | 3 | 1 | 4 |19 | 440 weeks 
+Durahan/Durahan      | 3 | 4 | 3 | 3 | 1 | 5 |19 | 500 weeks 
+Durahan/Golem        | 3 | 4 | 3 | 2 | 1 | 5 |18 | 480 weeks 
+Durahan/Joker        | 3 | 4 | 4 | 4 | 1 | 4 |20 | 440 weeks 
+Durahan/Metalner     | 3 | 3 | 2 | 4 | 1 | 5 |18 | 480 weeks 
+Durahan/Mock         | 2 | 3 | 4 | 3 | 1 | 4 |17 | 520 weeks 
+Durahan/Phoenix      | 3 | 3 | 4 | 3 | 2 | 4 |19 | 480 weeks 
+Durahan/Pixie        | 2 | 3 | 4 | 3 | 2 | 3 |17 | 460 weeks 
+Durahan/Tiger        | 3 | 3 | 3 | 4 | 2 | 3 |18 | 460 weeks 
+Kokushi Muso         | 3 | 3 | 2 | 4 | 1 | 5 |18 | 500 weeks
+Ruby Knight          | 3 | 4 | 4 | 3 | 1 | 4 |19 | 460 weeks
+Shogun               | 3 | 3 | 4 | 3 | 1 | 4 |18 | 540 weeks
+============================================================
+Gaboo/Gaboo          | 5 | 4 | 1 | 1 | 4 | 1 |16 | 450 weeks 
+Gaboo/Jell           | 4 | 3 | 2 | 2 | 3 | 2 |16 | 450 weeks 
+Gaboo/Joker          | 4 | 4 | 3 | 3 | 3 | 1 |18 | 410 weeks 
+Gaboo/Tiger          | 4 | 3 | 2 | 3 | 4 | 1 |17 | 430 weeks 
+============================================================
+Gali/Gali            | 2 | 3 | 5 | 3 | 2 | 3 |18 | 350 weeks 
+Gali/Golem           | 2 | 4 | 4 | 2 | 2 | 4 |18 | 390 weeks 
+Gali/Hare            | 2 | 4 | 3 | 3 | 3 | 2 |17 | 370 weeks 
+Gali/Jell            | 2 | 3 | 5 | 3 | 2 | 3 |18 | 390 weeks 
+Gali/Monol           | 2 | 3 | 4 | 3 | 2 | 4 |18 | 350 weeks 
+Gali/Naga            | 2 | 3 | 3 | 3 | 2 | 3 |16 | 350 weeks 
+Gali/Pixie           | 2 | 3 | 5 | 3 | 3 | 2 |18 | 370 weeks 
+Gali/Plant           | 3 | 2 | 4 | 3 | 2 | 2 |16 | 430 weeks 
+Gali/Suezo           | 2 | 3 | 5 | 3 | 2 | 3 |18 | 390 weeks 
+Gali/Tiger           | 2 | 3 | 5 | 4 | 3 | 2 |19 | 370 weeks 
+Gali/Worm            | 3 | 3 | 4 | 3 | 2 | 3 |18 | 370 weeks
+Gali/Zuum            | 2 | 3 | 4 | 3 | 2 | 3 |17 | 390 weeks
+============================================================
+Ghost/Ghost          | 1 | 1 | 4 | 4 | 4 | 1 |15 | 400 weeks 
+Chef                 | 1 | 1 | 4 | 4 | 4 | 1 |15 | 420 weeks
+============================================================
+Golem/Arrowhead      | 3 | 4 | 3 | 2 | 1 | 5 |18 | 470 weeks 
+Golem/Bajarl         | 3 | 5 | 3 | 2 | 2 | 4 |19 | 450 weeks 
+Golem/Baku           | 4 | 5 | 2 | 1 | 1 | 4 |17 | 470 weeks 
+Golem/Beaclon        | 3 | 5 | 2 | 1 | 1 | 5 |17 | 430 weeks 
+Golem/Dragon         | 3 | 5 | 4 | 2 | 1 | 4 |19 | 410 weeks 
+Golem/Durahan        | 3 | 5 | 3 | 2 | 1 | 5 |19 | 470 weeks 
+Golem/Gali           | 3 | 4 | 4 | 2 | 1 | 4 |18 | 410 weeks 
+Golem/Golem          | 3 | 5 | 3 | 1 | 1 | 5 |18 | 450 weeks 
+Golem/Hare           | 3 | 5 | 2 | 2 | 3 | 3 |18 | 430 weeks 
+Golem/Henger         | 3 | 5 | 3 | 2 | 2 | 4 |19 | 430 weeks 
+Golem/Jell           | 3 | 4 | 3 | 2 | 1 | 5 |18 | 450 weeks 
+Golem/Joker          | 3 | 4 | 4 | 3 | 1 | 4 |19 | 410 weeks 
+Golem/Metalner       | 3 | 4 | 2 | 3 | 1 | 5 |18 | 450 weeks 
+Golem/Mock           | 2 | 4 | 4 | 1 | 1 | 4 |16 | 490 weeks 
+Golem/Monol          | 3 | 4 | 3 | 1 | 1 | 5 |17 | 410 weeks 
+Golem/Naga           | 3 | 5 | 2 | 2 | 1 | 4 |17 | 410 weeks 
+Golem/Pixie          | 2 | 4 | 4 | 2 | 2 | 3 |17 | 430 weeks 
+Golem/Plant          | 4 | 3 | 3 | 2 | 1 | 3 |16 | 490 weeks 
+Golem/Suezo          | 3 | 4 | 4 | 2 | 1 | 4 |18 | 450 weeks 
+Golem/Tiger          | 3 | 4 | 3 | 3 | 2 | 3 |18 | 430 weeks 
+Golem/Worm           | 4 | 4 | 3 | 2 | 1 | 4 |18 | 430 weeks 
+Golem/Wracky         | 2 | 3 | 3 | 1 | 2 | 3 |14 | 510 weeks 
+Golem/Zilla          | 3 | 5 | 3 | 1 | 1 | 4 |17 | 450 weeks 
+Golem/Zuum           | 3 | 4 | 3 | 2 | 2 | 4 |18 | 450 weeks 
+=============================================================
+Hare/Gali            | 3 | 4 | 3 | 3 | 4 | 2 |19 | 380 weeks 
+Hare/Golem           | 3 | 5 | 2 | 2 | 3 | 3 |18 | 420 weeks 
+Hare/Hare            | 3 | 5 | 1 | 3 | 5 | 1 |18 | 400 weeks 
+Hare/Jell            | 3 | 4 | 2 | 3 | 4 | 2 |18 | 420 weeks 
+Hare/Monol           | 3 | 4 | 2 | 3 | 3 | 3 |18 | 380 weeks 
+Hare/Naga            | 3 | 5 | 1 | 3 | 4 | 2 |18 | 380 weeks 
+Hare/Pixie           | 2 | 4 | 3 | 3 | 5 | 1 |17 | 400 weeks 
+Hare/Plant           | 4 | 3 | 2 | 3 | 4 | 1 |17 | 460 weeks 
+Hare/Suezo           | 3 | 4 | 3 | 3 | 4 | 1 |18 | 420 weeks 
+Hare/Tiger           | 3 | 4 | 2 | 4 | 5 | 1 |19 | 400 weeks 
+Hare/Worm            | 4 | 4 | 2 | 3 | 3 | 1 |17 | 400 weeks 
+Hare/Zuum            | 3 | 4 | 1 | 3 | 4 | 2 |17 | 420 weeks 
+KungFu Hare          | 3 | 5 | 1 | 3 | 5 | 1 |18 | 420 weeks
+============================================================
+Henger/Dragon        | 2 | 4 | 4 | 4 | 3 | 2 |19 | 380 weeks 
+Henger/Golem         | 2 | 4 | 3 | 3 | 3 | 3 |18 | 420 weeks 
+Henger/Henger        | 2 | 4 | 3 | 4 | 4 | 2 |19 | 400 weeks 
+Henger/Joker         | 2 | 4 | 4 | 4 | 3 | 2 |19 | 380 weeks 
+Henger/Metalner      | 2 | 3 | 2 | 4 | 3 | 3 |17 | 420 weeks 
+Henger/Mock          | 2 | 3 | 4 | 3 | 3 | 2 |17 | 460 weeks 
+Henger/Monol         | 2 | 4 | 3 | 3 | 3 | 3 |18 | 380 weeks 
+Henger/Zuum          | 2 | 4 | 3 | 4 | 4 | 2 |19 | 420 weeks 
+Skeleton             | 4 | 4 | 4 | 4 | 3 | 2 |19 | 400 weeks
+============================================================
+Hopper/Bajarl        | 2 | 3 | 3 | 5 | 3 | 1 |17 | 420 weeks 
+Hopper/Dragon        | 2 | 4 | 4 | 4 | 3 | 2 |19 | 380 weeks 
+Hopper/Hopper        | 2 | 3 | 3 | 5 | 3 | 1 |17 | 400 weeks 
+Hopper/Jill          | 2 | 3 | 3 | 4 | 3 | 2 |17 | 420 weeks 
+Hopper/Joker         | 2 | 3 | 4 | 5 | 3 | 1 |18 | 380 weeks 
+Hopper/Kato          | 2 | 2 | 4 | 4 | 4 | 1 |17 | 460 weeks 
+Hopper/Metalner      | 2 | 3 | 2 | 5 | 2 | 3 |17 | 420 weeks 
+Hopper/Mocchi        | 2 | 3 | 3 | 5 | 3 | 2 |18 | 420 weeks 
+Hopper/Mock          | 2 | 3 | 4 | 4 | 3 | 1 |17 | 460 weeks 
+Hopper/Pixie         | 2 | 3 | 4 | 5 | 3 | 1 |18 | 400 weeks 
+Hopper/Suezo         | 2 | 3 | 4 | 5 | 3 | 1 |18 | 420 weeks 
+Hopper/Tiger         | 2 | 3 | 3 | 5 | 3 | 1 |17 | 400 weeks 
+============================================================
+Jell/Gali            | 3 | 2 | 4 | 4 | 2 | 4 |19 | 410 weeks 
+Jell/Golem           | 3 | 3 | 4 | 3 | 2 | 4 |19 | 450 weeks 
+Jell/Hare            | 3 | 3 | 3 | 4 | 3 | 3 |19 | 430 weeks 
+Jell/Jell            | 3 | 2 | 4 | 4 | 2 | 4 |19 | 450 weeks 
+Jell/Monol           | 3 | 2 | 4 | 3 | 2 | 4 |18 | 410 weeks 
+Jell/Naga            | 3 | 3 | 3 | 4 | 2 | 4 |19 | 410 weeks 
+Jell/Pixie           | 2 | 2 | 4 | 4 | 3 | 3 |18 | 430 weeks 
+Jell/Plant           | 4 | 2 | 4 | 4 | 2 | 3 |18 | 490 weeks 
+Jell/Suezo           | 3 | 2 | 4 | 4 | 2 | 3 |18 | 450 weeks 
+Jell/Tiger           | 3 | 2 | 4 | 4 | 3 | 3 |19 | 430 weeks 
+Jell/Worm            | 4 | 2 | 4 | 4 | 2 | 3 |18 | 430 weeks 
+Jell/Zuum            | 3 | 2 | 3 | 4 | 2 | 4 |18 | 450 weeks 
+============================================================
+Jill/Hare            | 3 | 4 | 3 | 2 | 3 | 2 |17 | 430 weeks 
+Jill/Jill            | 3 | 4 | 4 | 2 | 2 | 3 |18 | 450 weeks 
+Jill/Joker           | 3 | 4 | 4 | 3 | 2 | 3 |19 | 410 weeks 
+Jill/Kato            | 3 | 3 | 4 | 2 | 3 | 3 |18 | 490 weeks 
+Jill/Pixie           | 2 | 3 | 4 | 3 | 3 | 2 |17 | 430 weeks 
+Jill/Suezo           | 3 | 4 | 4 | 3 | 2 | 3 |19 | 450 weeks 
+Jill/Tiger           | 3 | 3 | 4 | 3 | 3 | 2 |18 | 430 weeks 
+============================================================
+Joker/Bajarl         | 3 | 3 | 4 | 5 | 2 | 2 |19 | 390 weeks 
+Joker/Dragon         | 3 | 4 | 5 | 4 | 2 | 2 |20 | 350 weeks 
+Joker/Golem          | 3 | 4 | 4 | 3 | 2 | 3 |19 | 390 weeks 
+Joker/Joker          | 3 | 3 | 5 | 5 | 2 | 2 |20 | 350 weeks 
+Joker/Pixie          | 2 | 3 | 5 | 5 | 3 | 2 |20 | 370 weeks 
+Joker/Tiger          | 3 | 3 | 5 | 5 | 3 | 2 |21 | 370 weeks 
+Bloodshed            | 3 | 3 | 4 | 5 | 2 | 2 |19 | 410 weeks
+============================================================
+Kato/Dragon          | 2 | 3 | 5 | 3 | 4 | 2 |19 | 470 weeks 
+Kato/Gali            | 2 | 2 | 5 | 3 | 4 | 2 |18 | 470 weeks 
+Kato/Joker           | 2 | 2 | 5 | 4 | 4 | 2 |19 | 470 weeks 
+Kato/Kato            | 2 | 1 | 5 | 3 | 5 | 2 |18 | 550 weeks 
+Kato/Mocchi          | 2 | 2 | 4 | 3 | 5 | 3 |20 | 510 weeks 
+Kato/Suezo           | 2 | 2 | 5 | 3 | 4 | 2 |18 | 510 weeks 
+Kato/Tiger           | 2 | 1 | 5 | 4 | 5 | 2 |19 | 490 weeks 
+============================================================
+Metalner/Metalner    | 3 | 2 | 1 | 5 | 1 | 5 |17 | 450 weeks 
+Metalner/Pixie       | 2 | 2 | 3 | 5 | 2 | 3 |17 | 430 weeks 
+Metalner/Suezo       | 3 | 2 | 3 | 5 | 1 | 4 |18 | 450 weeks 
+Chinois              | 2 | 2 | 3 | 5 | 2 | 3 |17 | 450 weeks
+============================================================
+Mew/Hare             | 4 | 3 | 2 | 4 | 4 | 2 |19 | 460 weeks 
+Mew/Jell             | 3 | 2 | 3 | 4 | 3 | 3 |18 | 480 weeks 
+Mew/Mew              | 4 | 2 | 2 | 4 | 4 | 2 |18 | 500 weeks 
+Mew/Pixie            | 3 | 2 | 3 | 4 | 4 | 2 |18 | 460 weeks 
+Mew/Tiger            | 3 | 2 | 3 | 4 | 4 | 2 |18 | 460 weeks 
+============================================================
+Mocchi/Dragon        | 3 | 4 | 4 | 4 | 3 | 4 |22 | 410 weeks 
+Mocchi/Durahan       | 3 | 3 | 3 | 4 | 3 | 4 |20 | 470 weeks 
+Mocchi/Jell          | 3 | 3 | 3 | 4 | 3 | 4 |20 | 450 weeks  
+Mocchi/Joker         | 3 | 3 | 4 | 4 | 3 | 3 |20 | 410 weeks 
+Mocchi/Kato          | 3 | 2 | 4 | 4 | 4 | 3 |20 | 490 weeks 
+Mocchi/Mocchi        | 3 | 3 | 3 | 4 | 4 | 4 |21 | 450 weeks 
+Mocchi/Pixie         | 2 | 3 | 4 | 3 | 4 | 3 |19 | 430 weeks 
+Mocchi/Tiger         | 3 | 3 | 3 | 4 | 4 | 3 |20 | 430 weeks 
+============================================================ 
+Mock/Joker           | 2 | 2 | 5 | 3 | 2 | 2 |16 | 470 weeks 
+Mock/Mock            | 1 | 2 | 5 | 2 | 2 | 2 |14 | 550 weeks 
+White Birch          | 1 | 2 | 5 | 2 | 2 | 2 |14 | 570 weeks
+============================================================
+Monol/Gali           | 2 | 3 | 4 | 2 | 1 | 4 |16 | 350 weeks 
+Monol/Golem          | 2 | 4 | 3 | 2 | 1 | 5 |17 | 390 weeks 
+Monol/Hare           | 2 | 4 | 2 | 2 | 3 | 3 |16 | 370 weeks 
+Monol/Jell           | 2 | 3 | 3 | 3 | 1 | 5 |17 | 390 weeks 
+Monol/Monol          | 2 | 3 | 3 | 2 | 1 | 5 |16 | 350 weeks 
+Monol/Naga           | 2 | 3 | 2 | 3 | 1 | 4 |15 | 350 weeks 
+Monol/Plant          | 3 | 2 | 3 | 3 | 1 | 3 |15 | 430 weeks 
+Monol/Pixie          | 2 | 3 | 4 | 3 | 2 | 3 |17 | 370 weeks 
+Monol/Suezo          | 2 | 3 | 4 | 3 | 1 | 4 |17 | 390 weeks 
+Monol/Tiger          | 2 | 3 | 3 | 3 | 2 | 3 |16 | 370 weeks 
+Monol/Worm           | 3 | 3 | 3 | 2 | 1 | 4 |16 | 370 weeks 
+Monol/Zuum           | 2 | 3 | 3 | 3 | 2 | 4 |17 | 390 weeks 
+Galaxy               | 2 | 3 | 4 | 3 | 1 | 4 |17 | 410 weeks
+============================================================
+Naga/Gali            | 3 | 4 | 3 | 4 | 2 | 3 |19 | 350 weeks 
+Naga/Golem           | 3 | 4 | 2 | 3 | 2 | 4 |18 | 390 weeks 
+Naga/Hare            | 3 | 4 | 1 | 4 | 3 | 2 |17 | 370 weeks 
+Naga/Jell            | 3 | 3 | 2 | 4 | 2 | 3 |17 | 390 weeks 
+Naga/Monol           | 3 | 4 | 2 | 3 | 2 | 4 |18 | 350 weeks 
+Naga/Naga            | 3 | 4 | 1 | 4 | 2 | 3 |17 | 350 weeks 
+Naga/Pixie           | 2 | 3 | 3 | 4 | 3 | 2 |17 | 370 weeks 
+Naga/Plant           | 4 | 3 | 2 | 4 | 2 | 2 |17 | 430 weeks 
+Naga/Suezo           | 3 | 4 | 3 | 4 | 2 | 3 |19 | 390 weeks 
+Naga/Tiger           | 3 | 3 | 2 | 4 | 3 | 2 |17 | 370 weeks 
+Naga/Worm            | 4 | 3 | 2 | 4 | 2 | 3 |18 | 370 weeks 
+Naga/Zuum            | 3 | 4 | 1 | 4 | 2 | 3 |17 | 390 weeks 
+============================================================
+Niton/Bajarl         | 3 | 3 | 2 | 3 | 2 | 4 |17 | 450 weeks 
+Niton/Durahan        | 3 | 3 | 2 | 2 | 2 | 5 |17 | 470 weeks 
+Niton/Golem          | 3 | 3 | 2 | 2 | 2 | 5 |17 | 450 weeks 
+Niton/Jell           | 3 | 2 | 3 | 3 | 2 | 5 |18 | 450 weeks 
+Niton/Kato           | 3 | 2 | 3 | 2 | 3 | 4 |17 | 490 weeks 
+Niton/Metalner       | 3 | 2 | 2 | 3 | 2 | 5 |17 | 450 weeks 
+Niton/Mock           | 2 | 2 | 3 | 2 | 2 | 4 |15 | 490 weeks 
+Niton/Niton          | 3 | 2 | 2 | 2 | 2 | 5 |16 | 450 weeks 
+============================================================
+Phoenix/Phoenix      | 3 | 1 | 5 | 3 | 3 | 3 |18 | 450 weeks 
+Cinder Bird          | 3 | 1 | 5 | 3 | 3 | 3 |18 | 470 weeks
+============================================================
+Pixie/Bajarl         | 2 | 2 | 4 | 4 | 4 | 1 |17 | 420 weeks 
+Pixie/Centaur        | 2 | 2 | 5 | 4 | 3 | 1 |17 | 400 weeks 
+Pixie/Dragon         | 2 | 3 | 5 | 4 | 3 | 2 |19 | 380 weeks 
+Pixie/Durahan        | 2 | 3 | 4 | 4 | 3 | 3 |19 | 440 weeks 
+Pixie/Gali           | 1 | 2 | 5 | 4 | 3 | 2 |18 | 380 weeks 
+Pixie/Golem          | 2 | 3 | 4 | 3 | 3 | 3 |16 | 420 weeks 
+Pixie/Hare           | 2 | 3 | 3 | 4 | 4 | 1 |17 | 400 weeks 
+Pixie/Jell           | 2 | 2 | 5 | 4 | 3 | 2 |18 | 420 weeks 
+Pixie/Jill           | 2 | 3 | 5 | 3 | 3 | 2 |18 | 420 weeks 
+Pixie/Joker          | 2 | 2 | 5 | 4 | 3 | 1 |16 | 380 weeks 
+Pixie/Kato           | 1 | 2 | 5 | 4 | 4 | 1 |17 | 460 weeks 
+Pixie/Metalner       | 2 | 2 | 3 | 4 | 3 | 3 |17 | 420 weeks 
+Pixie/Mock           | 1 | 2 | 5 | 3 | 3 | 1 |15 | 460 weeks 
+Pixie/Monol          | 1 | 2 | 4 | 3 | 3 | 3 |16 | 380 weeks 
+Pixie/Naga           | 2 | 3 | 3 | 4 | 3 | 2 |17 | 380 weeks 
+Pixie/Pixie          | 1 | 2 | 5 | 4 | 4 | 1 |17 | 400 weeks 
+Pixie/Plant          | 3 | 2 | 4 | 4 | 3 | 1 |17 | 460 weeks 
+Pixie/Suezo          | 1 | 2 | 5 | 4 | 3 | 1 |16 | 420 weeks 
+Pixie/Tiger          | 1 | 2 | 5 | 4 | 4 | 1 |17 | 400 weeks 
+Pixie/Worm           | 3 | 2 | 4 | 4 | 3 | 1 |17 | 400 weeks 
+Pixie/Wracky         | 2 | 2 | 5 | 3 | 4 | 1 |17 | 480 weeks 
+Pixie/Zuum           | 2 | 2 | 4 | 4 | 4 | 2 |18 | 420 weeks 
+Kasumi               | 2 | 3 | 4 | 4 | 3 | 3 |19 | 480 weeks
+Mia                  | 2 | 3 | 5 | 4 | 4 | 1 |19 | 420 weeks 
+Poison               | 2 | 2 | 5 | 4 | 3 | 1 |16 | 400 weeks
+============================================================ 
+Plant/Gali           | 4 | 2 | 4 | 3 | 2 | 2 |17 | 470 weeks 
+Plant/Golem          | 4 | 3 | 3 | 2 | 2 | 3 |17 | 510 weeks 
+Plant/Hare           | 4 | 3 | 2 | 3 | 3 | 1 |16 | 490 weeks 
+Plant/Jell           | 4 | 2 | 3 | 3 | 2 | 2 |16 | 510 weeks 
+Plant/Monol          | 4 | 2 | 3 | 3 | 2 | 3 |17 | 470 weeks 
+Plant/Naga           | 4 | 2 | 2 | 3 | 2 | 1 |14 | 470 weeks 
+Plant/Pixie          | 3 | 1 | 4 | 3 | 3 | 1 |15 | 490 weeks 
+Plant/Plant          | 5 | 1 | 3 | 3 | 2 | 1 |15 | 550 weeks 
+Plant/Suezo          | 4 | 2 | 4 | 3 | 2 | 1 |16 | 510 weeks 
+Plant/Tiger          | 4 | 1 | 3 | 4 | 3 | 1 |16 | 490 weeks 
+Plant/Worm           | 5 | 2 | 3 | 3 | 2 | 1 |16 | 490 weeks 
+Plant/Zuum           | 4 | 2 | 3 | 3 | 2 | 2 |16 | 510 weeks 
+Reggae Plant         | 3 | 1 | 4 | 3 | 3 | 1 |15 | 510 weeks
+============================================================
+Suezo/Gali           | 2 | 3 | 5 | 4 | 2 | 2 |18 | 410 weeks 
+Suezo/Golem          | 2 | 4 | 4 | 3 | 2 | 3 |18 | 450 weeks 
+Suezo/Hare           | 2 | 4 | 3 | 4 | 3 | 2 |18 | 430 weeks 
+Suezo/Jell           | 2 | 3 | 5 | 4 | 2 | 3 |19 | 450 weeks 
+Suezo/Monol          | 2 | 3 | 4 | 3 | 2 | 3 |17 | 410 weeks 
+Suezo/Naga           | 2 | 3 | 3 | 4 | 2 | 2 |16 | 410 weeks 
+Suezo/Pixie          | 2 | 2 | 5 | 4 | 3 | 2 |19 | 430 weeks 
+Suezo/Plant          | 3 | 2 | 4 | 3 | 2 | 2 |16 | 490 weeks 
+Suezo/Suezo          | 2 | 3 | 5 | 4 | 2 | 2 |18 | 450 weeks 
+Suezo/Tiger          | 2 | 3 | 5 | 4 | 3 | 2 |19 | 430 weeks 
+Suezo/Worm           | 3 | 3 | 4 | 4 | 2 | 2 |18 | 430 weeks 
+Suezo/Zuum           | 2 | 3 | 4 | 4 | 2 | 2 |17 | 450 weeks 
+Birdie               | 2 | 3 | 5 | 4 | 2 | 2 |18 | 480 weeks
+Bronze Suezo         | 2 | 3 | 3 | 4 | 2 | 2 |16 | 430 weeks
+Gold Suezo           | 2 | 3 | 5 | 4 | 2 | 2 |18 | 450 weeks
+Silver Suezo         | 2 | 3 | 4 | 3 | 2 | 3 |17 | 430 weeks
+Sueki Suezo          | 1 | 1 | 1 | 1 | 1 | 1 | 6 | 1(!)weeks
+============================================================
+Tiger/Gali           | 2 | 2 | 4 | 4 | 3 | 2 |18 | 380 weeks 
+Tiger/Golem          | 2 | 3 | 4 | 3 | 3 | 3 |18 | 420 weeks 
+Tiger/Hare           | 2 | 3 | 3 | 4 | 4 | 1 |17 | 400 weeks 
+Tiger/Jell           | 2 | 2 | 4 | 5 | 3 | 2 |18 | 420 weeks 
+Tiger/Monol          | 2 | 2 | 4 | 4 | 3 | 3 |18 | 380 weeks 
+Tiger/Naga           | 2 | 3 | 3 | 5 | 3 | 2 |18 | 380 weeks 
+Tiger/Pixie          | 2 | 2 | 4 | 5 | 4 | 1 |18 | 400 weeks 
+Tiger/Plant          | 3 | 2 | 4 | 4 | 3 | 1 |17 | 460 weeks 
+Tiger/Suezo          | 2 | 2 | 4 | 5 | 3 | 1 |17 | 420 weeks 
+Tiger/Tiger          | 2 | 2 | 4 | 5 | 4 | 1 |18 | 400 weeks 
+Tiger/Worm           | 3 | 2 | 4 | 4 | 3 | 1 |17 | 400 weeks 
+Tiger/Zuum           | 2 | 2 | 3 | 5 | 4 | 2 |18 | 420 weeks 
+============================================================
+Undine/Joker         | 3 | 2 | 4 | 5 | 3 | 1 |18 | 380 weeks 
+Undine/Undine        | 3 | 1 | 4 | 5 | 4 | 1 |18 | 400 weeks 
+Mermaid              | 3 | 1 | 4 | 5 | 4 | 2 |19 | 420 weeks
+============================================================
+Worm/Gali            | 4 | 3 | 4 | 3 | 1 | 2 |17 | 380 weeks 
+Worm/Golem           | 4 | 4 | 3 | 2 | 1 | 3 |17 | 430 weeks 
+Worm/Hare            | 4 | 4 | 2 | 3 | 3 | 2 |18 | 400 weeks 
+Worm/Jell            | 4 | 3 | 3 | 3 | 1 | 3 |17 | 420 weeks 
+Worm/Monol           | 4 | 3 | 3 | 3 | 1 | 3 |17 | 380 weeks 
+Worm/Naga            | 4 | 3 | 2 | 3 | 1 | 2 |15 | 380 weeks 
+Worm/Pixie           | 3 | 3 | 4 | 3 | 2 | 2 |18 | 400 weeks 
+Worm/Plant           | 5 | 2 | 3 | 3 | 1 | 2 |16 | 460 weeks 
+Worm/Suezo           | 4 | 3 | 4 | 3 | 1 | 2 |17 | 420 weeks 
+Worm/Tiger           | 4 | 3 | 3 | 4 | 2 | 2 |18 | 400 weeks 
+Worm/Worm            | 5 | 3 | 3 | 3 | 1 | 2 |17 | 400 weeks 
+Worm/Zuum            | 4 | 3 | 3 | 3 | 2 | 2 |17 | 430 weeks 
+Express Worm         | 5 | 2 | 3 | 3 | 1 | 2 |16 | 480 weeks
+============================================================
+Wracky/Bajarl        | 3 | 2 | 3 | 2 | 4 | 1 |15 | 540 weeks 
+Wracky/Dragon        | 3 | 3 | 4 | 2 | 3 | 2 |16 | 500 weeks 
+Wracky/Durahan       | 3 | 2 | 4 | 2 | 3 | 3 |17 | 560 weeks 
+Wracky/Golem         | 3 | 3 | 4 | 1 | 3 | 3 |17 | 540 weeks 
+Wracky/Henger        | 3 | 2 | 4 | 2 | 4 | 1 |16 | 520 weeks 
+Wracky/Joker         | 3 | 2 | 4 | 3 | 3 | 1 |16 | 500 weeks 
+Wracky/Metalner      | 3 | 1 | 3 | 3 | 3 | 3 |16 | 540 weeks 
+Wracky/Mock          | 2 | 1 | 4 | 1 | 3 | 1 |12 | 580 weeks 
+Wracky/Pixie         | 2 | 1 | 4 | 2 | 4 | 1 |14 | 520 weeks 
+Wracky/Wracky        | 3 | 1 | 4 | 1 | 4 | 1 |14 | 600 weeks 
+Satan Clause         | 3 | 3 | 4 | 1 | 3 | 3 |17 | 560 weeks
+============================================================
+Zilla/Jell           | 3 | 4 | 3 | 2 | 3 | 3 |18 | 450 weeks 
+Zilla/Pixie          | 3 | 4 | 3 | 2 | 3 | 2 |17 | 430 weeks 
+Zilla/Tiger          | 3 | 4 | 3 | 3 | 3 | 2 |18 | 430 weeks 
+Zilla/Zilla          | 4 | 5 | 2 | 1 | 2 | 3 |17 | 450 weeks 
+============================================================
+Zuum/Arrowhead       | 3 | 3 | 2 | 4 | 3 | 4 |19 | 470 weeks 
+Zuum/Bajarl          | 3 | 3 | 2 | 4 | 3 | 3 |18 | 450 weeks 
+Zuum/Baku            | 4 | 3 | 2 | 3 | 2 | 3 |17 | 470 weeks 
+Zuum/Dragon          | 3 | 4 | 3 | 4 | 3 | 3 |20 | 410 weeks 
+Zuum/Gali            | 3 | 3 | 3 | 4 | 3 | 3 |19 | 410 weeks 
+Zuum/Golem           | 3 | 4 | 2 | 3 | 2 | 4 |18 | 450 weeks 
+Zuum/Hare            | 3 | 4 | 2 | 4 | 4 | 2 |19 | 430 weeks 
+Zuum/Jell            | 3 | 3 | 3 | 4 | 3 | 3 |19 | 450 weeks 
+Zuum/Joker           | 3 | 3 | 3 | 4 | 3 | 3 |19 | 410 weeks 
+Zuum/Kato            | 3 | 2 | 3 | 4 | 4 | 2 |18 | 490 weeks 
+Zuum/Mock            | 2 | 3 | 3 | 3 | 3 | 3 |17 | 490 weeks 
+Zuum/Monol           | 3 | 3 | 2 | 3 | 2 | 4 |17 | 410 weeks 
+Zuum/Naga            | 3 | 3 | 2 | 4 | 3 | 3 |18 | 410 weeks 
+Zuum/Plant           | 4 | 2 | 3 | 3 | 3 | 2 |17 | 490 weeks 
+Zuum/Pixie           | 2 | 3 | 3 | 4 | 3 | 2 |17 | 430 weeks 
+Zuum/Suezo           | 3 | 3 | 3 | 4 | 3 | 3 |19 | 450 weeks 
+Zuum/Tiger           | 3 | 3 | 3 | 4 | 3 | 2 |18 | 430 weeks 
+Zuum/Worm            | 4 | 3 | 2 | 3 | 2 | 3 |17 | 430 weeks 
+Zuum/Zuum            | 3 | 3 | 2 | 4 | 3 | 3 |18 | 450 weeks 
+Zebrasaurian         | 2 | 3 | 3 | 4 | 3 | 2 |17 | 450 weeks

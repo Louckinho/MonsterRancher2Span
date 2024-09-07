@@ -1,0 +1,6261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>1350</ID>
+      <Description>"MF2 (address: in-game date)"</Description>
+      <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moDeactivateChildrenAsWell="1"/>
+      <LastState Value="" RealAddress="003B9444"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <GroupHeader>1</GroupHeader>
+      <Address>MF2.exe+379444</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1349</ID>
+          <Description>"Date (in weeks)"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1351</ID>
+          <Description>"Money"</Description>
+          <DropDownList DisplayValueAsItem="1">99999990:max
+</DropDownList>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>-270</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1423</ID>
+          <Description>"Item"</Description>
+          <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moDeactivateChildrenAsWell="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1403</ID>
+              <Description>"1"</Description>
+              <DropDownList DisplayValueAsItem="1">0:potato
+1:fish
+2:meat
+3:milk
+4:cup jelly
+5:tablet
+6:sculpture
+7:gemini's pot
+8:lump of ice
+9:fire stone
+10:*pure gold
+11:pure gold
+12:pure silver
+13:pure platina
+14:mango
+15:candy
+16:smoked snake
+17:apple cake
+18:mint leaf
+19:powder
+20:sweet jelly
+21:sour jelly
+22:crab's claw
+23:nuts oil
+24:*nuts oil
+25:star prune
+26:gold peach
+27:silver peach
+28:magic banana
+29:*magic banana
+30:*magic banana
+31:half eaten nuts
+32:irritator
+33:griever
+34:teromeann
+35:manseitan
+36:larox
+37:kasseitan
+38:troron
+39:nageel
+40:*
+41:paradoxina
+42:chips of tiger's disc
+43:chips of hopper's disc
+44:chips of hare's disc
+45:chips of kato's disc
+46:chips of suezo's disc
+47:chips of naga's disc
+48:chips of gaboo's disc
+49:chips of jell's disc
+50:chips of niton's disc
+51:chips of plant's disc
+52:chips of mew's disc
+53:chips of mocchi's disc
+54:chips of zuum's disc
+55:chips of arrow head's disc
+56:chips of ape's disc
+57:chips of monol's disc
+58:bay shrimp
+59:incense
+60:shoes
+61:rice cracker
+62:*
+63:olive oil
+64:kaleidoscope
+65:torles water
+66:*
+67:perfume
+68:stick
+69:bone
+70:perfume oil
+71:wood ball
+72:cedar log
+73:pile of meat
+74:soil
+75:rock candy
+76:dummy
+77:ice of papas
+78:grease
+79:dna capsule (red)
+80:dna capsule (yellow)
+81:dna capsule (pink)
+82:dna capsule (gray)
+83:dna capsule (white)
+84:dna capsule (green)
+85:dna capsule (black)
+86:god's slate
+87:hero badge
+88:heel badge
+89:quack doll (pieces w/ instructions)
+90:dragon tusk
+91:old sheath
+92:double-edged
+93:magic pot
+94:mask
+95:big footstep
+96:big boots
+97:fire feather
+98:taurus' horn
+99:dino's tail
+100:zilla beard
+101:fun can
+102:strong glue
+103:quack doll (built)
+104:mystic seed
+105:parepare tea
+106:match
+107:toothpick
+108:playmate
+109:whetstone
+110:polish
+111:silk cloth
+112:disc dish
+113:gramophone
+114:shiny stone
+115:meteorite
+116:steamed bun
+117:razor blade
+118:ice candy
+119:fish bone
+120:sun lamp
+121:silk hat
+122:half cake
+123:shaved ice
+124:sweet potato
+125:medal
+126:gold medal
+127:silver medal
+128:music box
+129:medallion
+130:no desire
+131:battle
+132:rest
+133:play
+134:mirror
+135:colart tea
+136:galoe nut
+137:stick of ice
+138:ocean stone
+139:seaweed
+140:clay doll #1
+141:clay doll #2
+142:clay doll #3
+143:mock nut
+144:colt's cake
+145:flower
+146:chips of pixie's disc
+147:chips of dragon's disc
+148:chips of centaur's disc
+149:chips of color pandora's disc
+150:chips of beaclon's disc
+151:chips of henger's disc
+152:chips of wracky's disc
+153:chips of golem's disc
+154:chips of durahan's disc
+155:chips of baku's disc
+156:chips of gali's disc
+157:chips of zilla's disc
+158:chips of bajarl's disc
+159:chips of pheonix's disc
+160:chips of ghost's disc
+161:chips of metalner's disc
+162:chips of jill's disc
+163:chips of joker's disc
+164:chips of undine's disc
+165:chips of mock's disc
+166:chips of ducken's disc
+167:chips of worm's disc
+168:gali mask
+169:crystal
+170:undine slate
+171:reward #1
+172:reward #2
+173:stick
+174:cup jelly
+175:spear
+176:wracky doll
+177:quack doll (built /w instructions)
+178:none
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+14</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1404</ID>
+              <Description>"2"</Description>
+              <DropDownList DisplayValueAsItem="1">0:potato
+1:fish
+2:meat
+3:milk
+4:cup jelly
+5:tablet
+6:sculpture
+7:gemini's pot
+8:lump of ice
+9:fire stone
+10:*pure gold
+11:pure gold
+12:pure silver
+13:pure platina
+14:mango
+15:candy
+16:smoked snake
+17:apple cake
+18:mint leaf
+19:powder
+20:sweet jelly
+21:sour jelly
+22:crab's claw
+23:nuts oil
+24:*nuts oil
+25:star prune
+26:gold peach
+27:silver peach
+28:magic banana
+29:*magic banana
+30:*magic banana
+31:half eaten nuts
+32:irritator
+33:griever
+34:teromeann
+35:manseitan
+36:larox
+37:kasseitan
+38:troron
+39:nageel
+40:*
+41:paradoxina
+42:chips of tiger's disc
+43:chips of hopper's disc
+44:chips of hare's disc
+45:chips of kato's disc
+46:chips of suezo's disc
+47:chips of naga's disc
+48:chips of gaboo's disc
+49:chips of jell's disc
+50:chips of niton's disc
+51:chips of plant's disc
+52:chips of mew's disc
+53:chips of mocchi's disc
+54:chips of zuum's disc
+55:chips of arrow head's disc
+56:chips of ape's disc
+57:chips of monol's disc
+58:bay shrimp
+59:incense
+60:shoes
+61:rice cracker
+62:*
+63:olive oil
+64:kaleidoscope
+65:torles water
+66:*
+67:perfume
+68:stick
+69:bone
+70:perfume oil
+71:wood ball
+72:cedar log
+73:pile of meat
+74:soil
+75:rock candy
+76:dummy
+77:ice of papas
+78:grease
+79:dna capsule (red)
+80:dna capsule (yellow)
+81:dna capsule (pink)
+82:dna capsule (gray)
+83:dna capsule (white)
+84:dna capsule (green)
+85:dna capsule (black)
+86:god's slate
+87:hero badge
+88:heel badge
+89:quack doll (pieces w/ instructions)
+90:dragon tusk
+91:old sheath
+92:double-edged
+93:magic pot
+94:mask
+95:big footstep
+96:big boots
+97:fire feather
+98:taurus' horn
+99:dino's tail
+100:zilla beard
+101:fun can
+102:strong glue
+103:quack doll (built)
+104:mystic seed
+105:parepare tea
+106:match
+107:toothpick
+108:playmate
+109:whetstone
+110:polish
+111:silk cloth
+112:disc dish
+113:gramophone
+114:shiny stone
+115:meteorite
+116:steamed bun
+117:razor blade
+118:ice candy
+119:fish bone
+120:sun lamp
+121:silk hat
+122:half cake
+123:shaved ice
+124:sweet potato
+125:medal
+126:gold medal
+127:silver medal
+128:music box
+129:medallion
+130:no desire
+131:battle
+132:rest
+133:play
+134:mirror
+135:colart tea
+136:galoe nut
+137:stick of ice
+138:ocean stone
+139:seaweed
+140:clay doll #1
+141:clay doll #2
+142:clay doll #3
+143:mock nut
+144:colt's cake
+145:flower
+146:chips of pixie's disc
+147:chips of dragon's disc
+148:chips of centaur's disc
+149:chips of color pandora's disc
+150:chips of beaclon's disc
+151:chips of henger's disc
+152:chips of wracky's disc
+153:chips of golem's disc
+154:chips of durahan's disc
+155:chips of baku's disc
+156:chips of gali's disc
+157:chips of zilla's disc
+158:chips of bajarl's disc
+159:chips of pheonix's disc
+160:chips of ghost's disc
+161:chips of metalner's disc
+162:chips of jill's disc
+163:chips of joker's disc
+164:chips of undine's disc
+165:chips of mock's disc
+166:chips of ducken's disc
+167:chips of worm's disc
+168:gali mask
+169:crystal
+170:undine slate
+171:reward #1
+172:reward #2
+173:stick
+174:cup jelly
+175:spear
+176:wracky doll
+177:quack doll (built /w instructions)
+178:none
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+18</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1405</ID>
+              <Description>"3"</Description>
+              <DropDownList DisplayValueAsItem="1">0:potato
+1:fish
+2:meat
+3:milk
+4:cup jelly
+5:tablet
+6:sculpture
+7:gemini's pot
+8:lump of ice
+9:fire stone
+10:*pure gold
+11:pure gold
+12:pure silver
+13:pure platina
+14:mango
+15:candy
+16:smoked snake
+17:apple cake
+18:mint leaf
+19:powder
+20:sweet jelly
+21:sour jelly
+22:crab's claw
+23:nuts oil
+24:*nuts oil
+25:star prune
+26:gold peach
+27:silver peach
+28:magic banana
+29:*magic banana
+30:*magic banana
+31:half eaten nuts
+32:irritator
+33:griever
+34:teromeann
+35:manseitan
+36:larox
+37:kasseitan
+38:troron
+39:nageel
+40:*
+41:paradoxina
+42:chips of tiger's disc
+43:chips of hopper's disc
+44:chips of hare's disc
+45:chips of kato's disc
+46:chips of suezo's disc
+47:chips of naga's disc
+48:chips of gaboo's disc
+49:chips of jell's disc
+50:chips of niton's disc
+51:chips of plant's disc
+52:chips of mew's disc
+53:chips of mocchi's disc
+54:chips of zuum's disc
+55:chips of arrow head's disc
+56:chips of ape's disc
+57:chips of monol's disc
+58:bay shrimp
+59:incense
+60:shoes
+61:rice cracker
+62:*
+63:olive oil
+64:kaleidoscope
+65:torles water
+66:*
+67:perfume
+68:stick
+69:bone
+70:perfume oil
+71:wood ball
+72:cedar log
+73:pile of meat
+74:soil
+75:rock candy
+76:dummy
+77:ice of papas
+78:grease
+79:dna capsule (red)
+80:dna capsule (yellow)
+81:dna capsule (pink)
+82:dna capsule (gray)
+83:dna capsule (white)
+84:dna capsule (green)
+85:dna capsule (black)
+86:god's slate
+87:hero badge
+88:heel badge
+89:quack doll (pieces w/ instructions)
+90:dragon tusk
+91:old sheath
+92:double-edged
+93:magic pot
+94:mask
+95:big footstep
+96:big boots
+97:fire feather
+98:taurus' horn
+99:dino's tail
+100:zilla beard
+101:fun can
+102:strong glue
+103:quack doll (built)
+104:mystic seed
+105:parepare tea
+106:match
+107:toothpick
+108:playmate
+109:whetstone
+110:polish
+111:silk cloth
+112:disc dish
+113:gramophone
+114:shiny stone
+115:meteorite
+116:steamed bun
+117:razor blade
+118:ice candy
+119:fish bone
+120:sun lamp
+121:silk hat
+122:half cake
+123:shaved ice
+124:sweet potato
+125:medal
+126:gold medal
+127:silver medal
+128:music box
+129:medallion
+130:no desire
+131:battle
+132:rest
+133:play
+134:mirror
+135:colart tea
+136:galoe nut
+137:stick of ice
+138:ocean stone
+139:seaweed
+140:clay doll #1
+141:clay doll #2
+142:clay doll #3
+143:mock nut
+144:colt's cake
+145:flower
+146:chips of pixie's disc
+147:chips of dragon's disc
+148:chips of centaur's disc
+149:chips of color pandora's disc
+150:chips of beaclon's disc
+151:chips of henger's disc
+152:chips of wracky's disc
+153:chips of golem's disc
+154:chips of durahan's disc
+155:chips of baku's disc
+156:chips of gali's disc
+157:chips of zilla's disc
+158:chips of bajarl's disc
+159:chips of pheonix's disc
+160:chips of ghost's disc
+161:chips of metalner's disc
+162:chips of jill's disc
+163:chips of joker's disc
+164:chips of undine's disc
+165:chips of mock's disc
+166:chips of ducken's disc
+167:chips of worm's disc
+168:gali mask
+169:crystal
+170:undine slate
+171:reward #1
+172:reward #2
+173:stick
+174:cup jelly
+175:spear
+176:wracky doll
+177:quack doll (built /w instructions)
+178:none
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+1C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1406</ID>
+              <Description>"4"</Description>
+              <DropDownList DisplayValueAsItem="1">0:potato
+1:fish
+2:meat
+3:milk
+4:cup jelly
+5:tablet
+6:sculpture
+7:gemini's pot
+8:lump of ice
+9:fire stone
+10:*pure gold
+11:pure gold
+12:pure silver
+13:pure platina
+14:mango
+15:candy
+16:smoked snake
+17:apple cake
+18:mint leaf
+19:powder
+20:sweet jelly
+21:sour jelly
+22:crab's claw
+23:nuts oil
+24:*nuts oil
+25:star prune
+26:gold peach
+27:silver peach
+28:magic banana
+29:*magic banana
+30:*magic banana
+31:half eaten nuts
+32:irritator
+33:griever
+34:teromeann
+35:manseitan
+36:larox
+37:kasseitan
+38:troron
+39:nageel
+40:*
+41:paradoxina
+42:chips of tiger's disc
+43:chips of hopper's disc
+44:chips of hare's disc
+45:chips of kato's disc
+46:chips of suezo's disc
+47:chips of naga's disc
+48:chips of gaboo's disc
+49:chips of jell's disc
+50:chips of niton's disc
+51:chips of plant's disc
+52:chips of mew's disc
+53:chips of mocchi's disc
+54:chips of zuum's disc
+55:chips of arrow head's disc
+56:chips of ape's disc
+57:chips of monol's disc
+58:bay shrimp
+59:incense
+60:shoes
+61:rice cracker
+62:*
+63:olive oil
+64:kaleidoscope
+65:torles water
+66:*
+67:perfume
+68:stick
+69:bone
+70:perfume oil
+71:wood ball
+72:cedar log
+73:pile of meat
+74:soil
+75:rock candy
+76:dummy
+77:ice of papas
+78:grease
+79:dna capsule (red)
+80:dna capsule (yellow)
+81:dna capsule (pink)
+82:dna capsule (gray)
+83:dna capsule (white)
+84:dna capsule (green)
+85:dna capsule (black)
+86:god's slate
+87:hero badge
+88:heel badge
+89:quack doll (pieces w/ instructions)
+90:dragon tusk
+91:old sheath
+92:double-edged
+93:magic pot
+94:mask
+95:big footstep
+96:big boots
+97:fire feather
+98:taurus' horn
+99:dino's tail
+100:zilla beard
+101:fun can
+102:strong glue
+103:quack doll (built)
+104:mystic seed
+105:parepare tea
+106:match
+107:toothpick
+108:playmate
+109:whetstone
+110:polish
+111:silk cloth
+112:disc dish
+113:gramophone
+114:shiny stone
+115:meteorite
+116:steamed bun
+117:razor blade
+118:ice candy
+119:fish bone
+120:sun lamp
+121:silk hat
+122:half cake
+123:shaved ice
+124:sweet potato
+125:medal
+126:gold medal
+127:silver medal
+128:music box
+129:medallion
+130:no desire
+131:battle
+132:rest
+133:play
+134:mirror
+135:colart tea
+136:galoe nut
+137:stick of ice
+138:ocean stone
+139:seaweed
+140:clay doll #1
+141:clay doll #2
+142:clay doll #3
+143:mock nut
+144:colt's cake
+145:flower
+146:chips of pixie's disc
+147:chips of dragon's disc
+148:chips of centaur's disc
+149:chips of color pandora's disc
+150:chips of beaclon's disc
+151:chips of henger's disc
+152:chips of wracky's disc
+153:chips of golem's disc
+154:chips of durahan's disc
+155:chips of baku's disc
+156:chips of gali's disc
+157:chips of zilla's disc
+158:chips of bajarl's disc
+159:chips of pheonix's disc
+160:chips of ghost's disc
+161:chips of metalner's disc
+162:chips of jill's disc
+163:chips of joker's disc
+164:chips of undine's disc
+165:chips of mock's disc
+166:chips of ducken's disc
+167:chips of worm's disc
+168:gali mask
+169:crystal
+170:undine slate
+171:reward #1
+172:reward #2
+173:stick
+174:cup jelly
+175:spear
+176:wracky doll
+177:quack doll (built /w instructions)
+178:none
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+20</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1407</ID>
+              <Description>"5"</Description>
+              <DropDownList DisplayValueAsItem="1">0:potato
+1:fish
+2:meat
+3:milk
+4:cup jelly
+5:tablet
+6:sculpture
+7:gemini's pot
+8:lump of ice
+9:fire stone
+10:*pure gold
+11:pure gold
+12:pure silver
+13:pure platina
+14:mango
+15:candy
+16:smoked snake
+17:apple cake
+18:mint leaf
+19:powder
+20:sweet jelly
+21:sour jelly
+22:crab's claw
+23:nuts oil
+24:*nuts oil
+25:star prune
+26:gold peach
+27:silver peach
+28:magic banana
+29:*magic banana
+30:*magic banana
+31:half eaten nuts
+32:irritator
+33:griever
+34:teromeann
+35:manseitan
+36:larox
+37:kasseitan
+38:troron
+39:nageel
+40:*
+41:paradoxina
+42:chips of tiger's disc
+43:chips of hopper's disc
+44:chips of hare's disc
+45:chips of kato's disc
+46:chips of suezo's disc
+47:chips of naga's disc
+48:chips of gaboo's disc
+49:chips of jell's disc
+50:chips of niton's disc
+51:chips of plant's disc
+52:chips of mew's disc
+53:chips of mocchi's disc
+54:chips of zuum's disc
+55:chips of arrow head's disc
+56:chips of ape's disc
+57:chips of monol's disc
+58:bay shrimp
+59:incense
+60:shoes
+61:rice cracker
+62:*
+63:olive oil
+64:kaleidoscope
+65:torles water
+66:*
+67:perfume
+68:stick
+69:bone
+70:perfume oil
+71:wood ball
+72:cedar log
+73:pile of meat
+74:soil
+75:rock candy
+76:dummy
+77:ice of papas
+78:grease
+79:dna capsule (red)
+80:dna capsule (yellow)
+81:dna capsule (pink)
+82:dna capsule (gray)
+83:dna capsule (white)
+84:dna capsule (green)
+85:dna capsule (black)
+86:god's slate
+87:hero badge
+88:heel badge
+89:quack doll (pieces w/ instructions)
+90:dragon tusk
+91:old sheath
+92:double-edged
+93:magic pot
+94:mask
+95:big footstep
+96:big boots
+97:fire feather
+98:taurus' horn
+99:dino's tail
+100:zilla beard
+101:fun can
+102:strong glue
+103:quack doll (built)
+104:mystic seed
+105:parepare tea
+106:match
+107:toothpick
+108:playmate
+109:whetstone
+110:polish
+111:silk cloth
+112:disc dish
+113:gramophone
+114:shiny stone
+115:meteorite
+116:steamed bun
+117:razor blade
+118:ice candy
+119:fish bone
+120:sun lamp
+121:silk hat
+122:half cake
+123:shaved ice
+124:sweet potato
+125:medal
+126:gold medal
+127:silver medal
+128:music box
+129:medallion
+130:no desire
+131:battle
+132:rest
+133:play
+134:mirror
+135:colart tea
+136:galoe nut
+137:stick of ice
+138:ocean stone
+139:seaweed
+140:clay doll #1
+141:clay doll #2
+142:clay doll #3
+143:mock nut
+144:colt's cake
+145:flower
+146:chips of pixie's disc
+147:chips of dragon's disc
+148:chips of centaur's disc
+149:chips of color pandora's disc
+150:chips of beaclon's disc
+151:chips of henger's disc
+152:chips of wracky's disc
+153:chips of golem's disc
+154:chips of durahan's disc
+155:chips of baku's disc
+156:chips of gali's disc
+157:chips of zilla's disc
+158:chips of bajarl's disc
+159:chips of pheonix's disc
+160:chips of ghost's disc
+161:chips of metalner's disc
+162:chips of jill's disc
+163:chips of joker's disc
+164:chips of undine's disc
+165:chips of mock's disc
+166:chips of ducken's disc
+167:chips of worm's disc
+168:gali mask
+169:crystal
+170:undine slate
+171:reward #1
+172:reward #2
+173:stick
+174:cup jelly
+175:spear
+176:wracky doll
+177:quack doll (built /w instructions)
+178:none
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+24</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1408</ID>
+              <Description>"6"</Description>
+              <DropDownList DisplayValueAsItem="1">0:potato
+1:fish
+2:meat
+3:milk
+4:cup jelly
+5:tablet
+6:sculpture
+7:gemini's pot
+8:lump of ice
+9:fire stone
+10:*pure gold
+11:pure gold
+12:pure silver
+13:pure platina
+14:mango
+15:candy
+16:smoked snake
+17:apple cake
+18:mint leaf
+19:powder
+20:sweet jelly
+21:sour jelly
+22:crab's claw
+23:nuts oil
+24:*nuts oil
+25:star prune
+26:gold peach
+27:silver peach
+28:magic banana
+29:*magic banana
+30:*magic banana
+31:half eaten nuts
+32:irritator
+33:griever
+34:teromeann
+35:manseitan
+36:larox
+37:kasseitan
+38:troron
+39:nageel
+40:*
+41:paradoxina
+42:chips of tiger's disc
+43:chips of hopper's disc
+44:chips of hare's disc
+45:chips of kato's disc
+46:chips of suezo's disc
+47:chips of naga's disc
+48:chips of gaboo's disc
+49:chips of jell's disc
+50:chips of niton's disc
+51:chips of plant's disc
+52:chips of mew's disc
+53:chips of mocchi's disc
+54:chips of zuum's disc
+55:chips of arrow head's disc
+56:chips of ape's disc
+57:chips of monol's disc
+58:bay shrimp
+59:incense
+60:shoes
+61:rice cracker
+62:*
+63:olive oil
+64:kaleidoscope
+65:torles water
+66:*
+67:perfume
+68:stick
+69:bone
+70:perfume oil
+71:wood ball
+72:cedar log
+73:pile of meat
+74:soil
+75:rock candy
+76:dummy
+77:ice of papas
+78:grease
+79:dna capsule (red)
+80:dna capsule (yellow)
+81:dna capsule (pink)
+82:dna capsule (gray)
+83:dna capsule (white)
+84:dna capsule (green)
+85:dna capsule (black)
+86:god's slate
+87:hero badge
+88:heel badge
+89:quack doll (pieces w/ instructions)
+90:dragon tusk
+91:old sheath
+92:double-edged
+93:magic pot
+94:mask
+95:big footstep
+96:big boots
+97:fire feather
+98:taurus' horn
+99:dino's tail
+100:zilla beard
+101:fun can
+102:strong glue
+103:quack doll (built)
+104:mystic seed
+105:parepare tea
+106:match
+107:toothpick
+108:playmate
+109:whetstone
+110:polish
+111:silk cloth
+112:disc dish
+113:gramophone
+114:shiny stone
+115:meteorite
+116:steamed bun
+117:razor blade
+118:ice candy
+119:fish bone
+120:sun lamp
+121:silk hat
+122:half cake
+123:shaved ice
+124:sweet potato
+125:medal
+126:gold medal
+127:silver medal
+128:music box
+129:medallion
+130:no desire
+131:battle
+132:rest
+133:play
+134:mirror
+135:colart tea
+136:galoe nut
+137:stick of ice
+138:ocean stone
+139:seaweed
+140:clay doll #1
+141:clay doll #2
+142:clay doll #3
+143:mock nut
+144:colt's cake
+145:flower
+146:chips of pixie's disc
+147:chips of dragon's disc
+148:chips of centaur's disc
+149:chips of color pandora's disc
+150:chips of beaclon's disc
+151:chips of henger's disc
+152:chips of wracky's disc
+153:chips of golem's disc
+154:chips of durahan's disc
+155:chips of baku's disc
+156:chips of gali's disc
+157:chips of zilla's disc
+158:chips of bajarl's disc
+159:chips of pheonix's disc
+160:chips of ghost's disc
+161:chips of metalner's disc
+162:chips of jill's disc
+163:chips of joker's disc
+164:chips of undine's disc
+165:chips of mock's disc
+166:chips of ducken's disc
+167:chips of worm's disc
+168:gali mask
+169:crystal
+170:undine slate
+171:reward #1
+172:reward #2
+173:stick
+174:cup jelly
+175:spear
+176:wracky doll
+177:quack doll (built /w instructions)
+178:none
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+28</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1409</ID>
+              <Description>"7"</Description>
+              <DropDownList DisplayValueAsItem="1">0:potato
+1:fish
+2:meat
+3:milk
+4:cup jelly
+5:tablet
+6:sculpture
+7:gemini's pot
+8:lump of ice
+9:fire stone
+10:*pure gold
+11:pure gold
+12:pure silver
+13:pure platina
+14:mango
+15:candy
+16:smoked snake
+17:apple cake
+18:mint leaf
+19:powder
+20:sweet jelly
+21:sour jelly
+22:crab's claw
+23:nuts oil
+24:*nuts oil
+25:star prune
+26:gold peach
+27:silver peach
+28:magic banana
+29:*magic banana
+30:*magic banana
+31:half eaten nuts
+32:irritator
+33:griever
+34:teromeann
+35:manseitan
+36:larox
+37:kasseitan
+38:troron
+39:nageel
+40:*
+41:paradoxina
+42:chips of tiger's disc
+43:chips of hopper's disc
+44:chips of hare's disc
+45:chips of kato's disc
+46:chips of suezo's disc
+47:chips of naga's disc
+48:chips of gaboo's disc
+49:chips of jell's disc
+50:chips of niton's disc
+51:chips of plant's disc
+52:chips of mew's disc
+53:chips of mocchi's disc
+54:chips of zuum's disc
+55:chips of arrow head's disc
+56:chips of ape's disc
+57:chips of monol's disc
+58:bay shrimp
+59:incense
+60:shoes
+61:rice cracker
+62:*
+63:olive oil
+64:kaleidoscope
+65:torles water
+66:*
+67:perfume
+68:stick
+69:bone
+70:perfume oil
+71:wood ball
+72:cedar log
+73:pile of meat
+74:soil
+75:rock candy
+76:dummy
+77:ice of papas
+78:grease
+79:dna capsule (red)
+80:dna capsule (yellow)
+81:dna capsule (pink)
+82:dna capsule (gray)
+83:dna capsule (white)
+84:dna capsule (green)
+85:dna capsule (black)
+86:god's slate
+87:hero badge
+88:heel badge
+89:quack doll (pieces w/ instructions)
+90:dragon tusk
+91:old sheath
+92:double-edged
+93:magic pot
+94:mask
+95:big footstep
+96:big boots
+97:fire feather
+98:taurus' horn
+99:dino's tail
+100:zilla beard
+101:fun can
+102:strong glue
+103:quack doll (built)
+104:mystic seed
+105:parepare tea
+106:match
+107:toothpick
+108:playmate
+109:whetstone
+110:polish
+111:silk cloth
+112:disc dish
+113:gramophone
+114:shiny stone
+115:meteorite
+116:steamed bun
+117:razor blade
+118:ice candy
+119:fish bone
+120:sun lamp
+121:silk hat
+122:half cake
+123:shaved ice
+124:sweet potato
+125:medal
+126:gold medal
+127:silver medal
+128:music box
+129:medallion
+130:no desire
+131:battle
+132:rest
+133:play
+134:mirror
+135:colart tea
+136:galoe nut
+137:stick of ice
+138:ocean stone
+139:seaweed
+140:clay doll #1
+141:clay doll #2
+142:clay doll #3
+143:mock nut
+144:colt's cake
+145:flower
+146:chips of pixie's disc
+147:chips of dragon's disc
+148:chips of centaur's disc
+149:chips of color pandora's disc
+150:chips of beaclon's disc
+151:chips of henger's disc
+152:chips of wracky's disc
+153:chips of golem's disc
+154:chips of durahan's disc
+155:chips of baku's disc
+156:chips of gali's disc
+157:chips of zilla's disc
+158:chips of bajarl's disc
+159:chips of pheonix's disc
+160:chips of ghost's disc
+161:chips of metalner's disc
+162:chips of jill's disc
+163:chips of joker's disc
+164:chips of undine's disc
+165:chips of mock's disc
+166:chips of ducken's disc
+167:chips of worm's disc
+168:gali mask
+169:crystal
+170:undine slate
+171:reward #1
+172:reward #2
+173:stick
+174:cup jelly
+175:spear
+176:wracky doll
+177:quack doll (built /w instructions)
+178:none
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+2C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1410</ID>
+              <Description>"8"</Description>
+              <DropDownList DisplayValueAsItem="1">0:potato
+1:fish
+2:meat
+3:milk
+4:cup jelly
+5:tablet
+6:sculpture
+7:gemini's pot
+8:lump of ice
+9:fire stone
+10:*pure gold
+11:pure gold
+12:pure silver
+13:pure platina
+14:mango
+15:candy
+16:smoked snake
+17:apple cake
+18:mint leaf
+19:powder
+20:sweet jelly
+21:sour jelly
+22:crab's claw
+23:nuts oil
+24:*nuts oil
+25:star prune
+26:gold peach
+27:silver peach
+28:magic banana
+29:*magic banana
+30:*magic banana
+31:half eaten nuts
+32:irritator
+33:griever
+34:teromeann
+35:manseitan
+36:larox
+37:kasseitan
+38:troron
+39:nageel
+40:*
+41:paradoxina
+42:chips of tiger's disc
+43:chips of hopper's disc
+44:chips of hare's disc
+45:chips of kato's disc
+46:chips of suezo's disc
+47:chips of naga's disc
+48:chips of gaboo's disc
+49:chips of jell's disc
+50:chips of niton's disc
+51:chips of plant's disc
+52:chips of mew's disc
+53:chips of mocchi's disc
+54:chips of zuum's disc
+55:chips of arrow head's disc
+56:chips of ape's disc
+57:chips of monol's disc
+58:bay shrimp
+59:incense
+60:shoes
+61:rice cracker
+62:*
+63:olive oil
+64:kaleidoscope
+65:torles water
+66:*
+67:perfume
+68:stick
+69:bone
+70:perfume oil
+71:wood ball
+72:cedar log
+73:pile of meat
+74:soil
+75:rock candy
+76:dummy
+77:ice of papas
+78:grease
+79:dna capsule (red)
+80:dna capsule (yellow)
+81:dna capsule (pink)
+82:dna capsule (gray)
+83:dna capsule (white)
+84:dna capsule (green)
+85:dna capsule (black)
+86:god's slate
+87:hero badge
+88:heel badge
+89:quack doll (pieces w/ instructions)
+90:dragon tusk
+91:old sheath
+92:double-edged
+93:magic pot
+94:mask
+95:big footstep
+96:big boots
+97:fire feather
+98:taurus' horn
+99:dino's tail
+100:zilla beard
+101:fun can
+102:strong glue
+103:quack doll (built)
+104:mystic seed
+105:parepare tea
+106:match
+107:toothpick
+108:playmate
+109:whetstone
+110:polish
+111:silk cloth
+112:disc dish
+113:gramophone
+114:shiny stone
+115:meteorite
+116:steamed bun
+117:razor blade
+118:ice candy
+119:fish bone
+120:sun lamp
+121:silk hat
+122:half cake
+123:shaved ice
+124:sweet potato
+125:medal
+126:gold medal
+127:silver medal
+128:music box
+129:medallion
+130:no desire
+131:battle
+132:rest
+133:play
+134:mirror
+135:colart tea
+136:galoe nut
+137:stick of ice
+138:ocean stone
+139:seaweed
+140:clay doll #1
+141:clay doll #2
+142:clay doll #3
+143:mock nut
+144:colt's cake
+145:flower
+146:chips of pixie's disc
+147:chips of dragon's disc
+148:chips of centaur's disc
+149:chips of color pandora's disc
+150:chips of beaclon's disc
+151:chips of henger's disc
+152:chips of wracky's disc
+153:chips of golem's disc
+154:chips of durahan's disc
+155:chips of baku's disc
+156:chips of gali's disc
+157:chips of zilla's disc
+158:chips of bajarl's disc
+159:chips of pheonix's disc
+160:chips of ghost's disc
+161:chips of metalner's disc
+162:chips of jill's disc
+163:chips of joker's disc
+164:chips of undine's disc
+165:chips of mock's disc
+166:chips of ducken's disc
+167:chips of worm's disc
+168:gali mask
+169:crystal
+170:undine slate
+171:reward #1
+172:reward #2
+173:stick
+174:cup jelly
+175:spear
+176:wracky doll
+177:quack doll (built /w instructions)
+178:none
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+30</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1411</ID>
+              <Description>"9"</Description>
+              <DropDownList DisplayValueAsItem="1">0:potato
+1:fish
+2:meat
+3:milk
+4:cup jelly
+5:tablet
+6:sculpture
+7:gemini's pot
+8:lump of ice
+9:fire stone
+10:*pure gold
+11:pure gold
+12:pure silver
+13:pure platina
+14:mango
+15:candy
+16:smoked snake
+17:apple cake
+18:mint leaf
+19:powder
+20:sweet jelly
+21:sour jelly
+22:crab's claw
+23:nuts oil
+24:*nuts oil
+25:star prune
+26:gold peach
+27:silver peach
+28:magic banana
+29:*magic banana
+30:*magic banana
+31:half eaten nuts
+32:irritator
+33:griever
+34:teromeann
+35:manseitan
+36:larox
+37:kasseitan
+38:troron
+39:nageel
+40:*
+41:paradoxina
+42:chips of tiger's disc
+43:chips of hopper's disc
+44:chips of hare's disc
+45:chips of kato's disc
+46:chips of suezo's disc
+47:chips of naga's disc
+48:chips of gaboo's disc
+49:chips of jell's disc
+50:chips of niton's disc
+51:chips of plant's disc
+52:chips of mew's disc
+53:chips of mocchi's disc
+54:chips of zuum's disc
+55:chips of arrow head's disc
+56:chips of ape's disc
+57:chips of monol's disc
+58:bay shrimp
+59:incense
+60:shoes
+61:rice cracker
+62:*
+63:olive oil
+64:kaleidoscope
+65:torles water
+66:*
+67:perfume
+68:stick
+69:bone
+70:perfume oil
+71:wood ball
+72:cedar log
+73:pile of meat
+74:soil
+75:rock candy
+76:dummy
+77:ice of papas
+78:grease
+79:dna capsule (red)
+80:dna capsule (yellow)
+81:dna capsule (pink)
+82:dna capsule (gray)
+83:dna capsule (white)
+84:dna capsule (green)
+85:dna capsule (black)
+86:god's slate
+87:hero badge
+88:heel badge
+89:quack doll (pieces w/ instructions)
+90:dragon tusk
+91:old sheath
+92:double-edged
+93:magic pot
+94:mask
+95:big footstep
+96:big boots
+97:fire feather
+98:taurus' horn
+99:dino's tail
+100:zilla beard
+101:fun can
+102:strong glue
+103:quack doll (built)
+104:mystic seed
+105:parepare tea
+106:match
+107:toothpick
+108:playmate
+109:whetstone
+110:polish
+111:silk cloth
+112:disc dish
+113:gramophone
+114:shiny stone
+115:meteorite
+116:steamed bun
+117:razor blade
+118:ice candy
+119:fish bone
+120:sun lamp
+121:silk hat
+122:half cake
+123:shaved ice
+124:sweet potato
+125:medal
+126:gold medal
+127:silver medal
+128:music box
+129:medallion
+130:no desire
+131:battle
+132:rest
+133:play
+134:mirror
+135:colart tea
+136:galoe nut
+137:stick of ice
+138:ocean stone
+139:seaweed
+140:clay doll #1
+141:clay doll #2
+142:clay doll #3
+143:mock nut
+144:colt's cake
+145:flower
+146:chips of pixie's disc
+147:chips of dragon's disc
+148:chips of centaur's disc
+149:chips of color pandora's disc
+150:chips of beaclon's disc
+151:chips of henger's disc
+152:chips of wracky's disc
+153:chips of golem's disc
+154:chips of durahan's disc
+155:chips of baku's disc
+156:chips of gali's disc
+157:chips of zilla's disc
+158:chips of bajarl's disc
+159:chips of pheonix's disc
+160:chips of ghost's disc
+161:chips of metalner's disc
+162:chips of jill's disc
+163:chips of joker's disc
+164:chips of undine's disc
+165:chips of mock's disc
+166:chips of ducken's disc
+167:chips of worm's disc
+168:gali mask
+169:crystal
+170:undine slate
+171:reward #1
+172:reward #2
+173:stick
+174:cup jelly
+175:spear
+176:wracky doll
+177:quack doll (built /w instructions)
+178:none
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+34</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1412</ID>
+              <Description>"10"</Description>
+              <DropDownList DisplayValueAsItem="1">0:potato
+1:fish
+2:meat
+3:milk
+4:cup jelly
+5:tablet
+6:sculpture
+7:gemini's pot
+8:lump of ice
+9:fire stone
+10:*pure gold
+11:pure gold
+12:pure silver
+13:pure platina
+14:mango
+15:candy
+16:smoked snake
+17:apple cake
+18:mint leaf
+19:powder
+20:sweet jelly
+21:sour jelly
+22:crab's claw
+23:nuts oil
+24:*nuts oil
+25:star prune
+26:gold peach
+27:silver peach
+28:magic banana
+29:*magic banana
+30:*magic banana
+31:half eaten nuts
+32:irritator
+33:griever
+34:teromeann
+35:manseitan
+36:larox
+37:kasseitan
+38:troron
+39:nageel
+40:*
+41:paradoxina
+42:chips of tiger's disc
+43:chips of hopper's disc
+44:chips of hare's disc
+45:chips of kato's disc
+46:chips of suezo's disc
+47:chips of naga's disc
+48:chips of gaboo's disc
+49:chips of jell's disc
+50:chips of niton's disc
+51:chips of plant's disc
+52:chips of mew's disc
+53:chips of mocchi's disc
+54:chips of zuum's disc
+55:chips of arrow head's disc
+56:chips of ape's disc
+57:chips of monol's disc
+58:bay shrimp
+59:incense
+60:shoes
+61:rice cracker
+62:*
+63:olive oil
+64:kaleidoscope
+65:torles water
+66:*
+67:perfume
+68:stick
+69:bone
+70:perfume oil
+71:wood ball
+72:cedar log
+73:pile of meat
+74:soil
+75:rock candy
+76:dummy
+77:ice of papas
+78:grease
+79:dna capsule (red)
+80:dna capsule (yellow)
+81:dna capsule (pink)
+82:dna capsule (gray)
+83:dna capsule (white)
+84:dna capsule (green)
+85:dna capsule (black)
+86:god's slate
+87:hero badge
+88:heel badge
+89:quack doll (pieces w/ instructions)
+90:dragon tusk
+91:old sheath
+92:double-edged
+93:magic pot
+94:mask
+95:big footstep
+96:big boots
+97:fire feather
+98:taurus' horn
+99:dino's tail
+100:zilla beard
+101:fun can
+102:strong glue
+103:quack doll (built)
+104:mystic seed
+105:parepare tea
+106:match
+107:toothpick
+108:playmate
+109:whetstone
+110:polish
+111:silk cloth
+112:disc dish
+113:gramophone
+114:shiny stone
+115:meteorite
+116:steamed bun
+117:razor blade
+118:ice candy
+119:fish bone
+120:sun lamp
+121:silk hat
+122:half cake
+123:shaved ice
+124:sweet potato
+125:medal
+126:gold medal
+127:silver medal
+128:music box
+129:medallion
+130:no desire
+131:battle
+132:rest
+133:play
+134:mirror
+135:colart tea
+136:galoe nut
+137:stick of ice
+138:ocean stone
+139:seaweed
+140:clay doll #1
+141:clay doll #2
+142:clay doll #3
+143:mock nut
+144:colt's cake
+145:flower
+146:chips of pixie's disc
+147:chips of dragon's disc
+148:chips of centaur's disc
+149:chips of color pandora's disc
+150:chips of beaclon's disc
+151:chips of henger's disc
+152:chips of wracky's disc
+153:chips of golem's disc
+154:chips of durahan's disc
+155:chips of baku's disc
+156:chips of gali's disc
+157:chips of zilla's disc
+158:chips of bajarl's disc
+159:chips of pheonix's disc
+160:chips of ghost's disc
+161:chips of metalner's disc
+162:chips of jill's disc
+163:chips of joker's disc
+164:chips of undine's disc
+165:chips of mock's disc
+166:chips of ducken's disc
+167:chips of worm's disc
+168:gali mask
+169:crystal
+170:undine slate
+171:reward #1
+172:reward #2
+173:stick
+174:cup jelly
+175:spear
+176:wracky doll
+177:quack doll (built /w instructions)
+178:none
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+38</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1413</ID>
+              <Description>"11"</Description>
+              <DropDownList DisplayValueAsItem="1">0:potato
+1:fish
+2:meat
+3:milk
+4:cup jelly
+5:tablet
+6:sculpture
+7:gemini's pot
+8:lump of ice
+9:fire stone
+10:*pure gold
+11:pure gold
+12:pure silver
+13:pure platina
+14:mango
+15:candy
+16:smoked snake
+17:apple cake
+18:mint leaf
+19:powder
+20:sweet jelly
+21:sour jelly
+22:crab's claw
+23:nuts oil
+24:*nuts oil
+25:star prune
+26:gold peach
+27:silver peach
+28:magic banana
+29:*magic banana
+30:*magic banana
+31:half eaten nuts
+32:irritator
+33:griever
+34:teromeann
+35:manseitan
+36:larox
+37:kasseitan
+38:troron
+39:nageel
+40:*
+41:paradoxina
+42:chips of tiger's disc
+43:chips of hopper's disc
+44:chips of hare's disc
+45:chips of kato's disc
+46:chips of suezo's disc
+47:chips of naga's disc
+48:chips of gaboo's disc
+49:chips of jell's disc
+50:chips of niton's disc
+51:chips of plant's disc
+52:chips of mew's disc
+53:chips of mocchi's disc
+54:chips of zuum's disc
+55:chips of arrow head's disc
+56:chips of ape's disc
+57:chips of monol's disc
+58:bay shrimp
+59:incense
+60:shoes
+61:rice cracker
+62:*
+63:olive oil
+64:kaleidoscope
+65:torles water
+66:*
+67:perfume
+68:stick
+69:bone
+70:perfume oil
+71:wood ball
+72:cedar log
+73:pile of meat
+74:soil
+75:rock candy
+76:dummy
+77:ice of papas
+78:grease
+79:dna capsule (red)
+80:dna capsule (yellow)
+81:dna capsule (pink)
+82:dna capsule (gray)
+83:dna capsule (white)
+84:dna capsule (green)
+85:dna capsule (black)
+86:god's slate
+87:hero badge
+88:heel badge
+89:quack doll (pieces w/ instructions)
+90:dragon tusk
+91:old sheath
+92:double-edged
+93:magic pot
+94:mask
+95:big footstep
+96:big boots
+97:fire feather
+98:taurus' horn
+99:dino's tail
+100:zilla beard
+101:fun can
+102:strong glue
+103:quack doll (built)
+104:mystic seed
+105:parepare tea
+106:match
+107:toothpick
+108:playmate
+109:whetstone
+110:polish
+111:silk cloth
+112:disc dish
+113:gramophone
+114:shiny stone
+115:meteorite
+116:steamed bun
+117:razor blade
+118:ice candy
+119:fish bone
+120:sun lamp
+121:silk hat
+122:half cake
+123:shaved ice
+124:sweet potato
+125:medal
+126:gold medal
+127:silver medal
+128:music box
+129:medallion
+130:no desire
+131:battle
+132:rest
+133:play
+134:mirror
+135:colart tea
+136:galoe nut
+137:stick of ice
+138:ocean stone
+139:seaweed
+140:clay doll #1
+141:clay doll #2
+142:clay doll #3
+143:mock nut
+144:colt's cake
+145:flower
+146:chips of pixie's disc
+147:chips of dragon's disc
+148:chips of centaur's disc
+149:chips of color pandora's disc
+150:chips of beaclon's disc
+151:chips of henger's disc
+152:chips of wracky's disc
+153:chips of golem's disc
+154:chips of durahan's disc
+155:chips of baku's disc
+156:chips of gali's disc
+157:chips of zilla's disc
+158:chips of bajarl's disc
+159:chips of pheonix's disc
+160:chips of ghost's disc
+161:chips of metalner's disc
+162:chips of jill's disc
+163:chips of joker's disc
+164:chips of undine's disc
+165:chips of mock's disc
+166:chips of ducken's disc
+167:chips of worm's disc
+168:gali mask
+169:crystal
+170:undine slate
+171:reward #1
+172:reward #2
+173:stick
+174:cup jelly
+175:spear
+176:wracky doll
+177:quack doll (built /w instructions)
+178:none
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+3C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1414</ID>
+              <Description>"12"</Description>
+              <DropDownList DisplayValueAsItem="1">0:potato
+1:fish
+2:meat
+3:milk
+4:cup jelly
+5:tablet
+6:sculpture
+7:gemini's pot
+8:lump of ice
+9:fire stone
+10:*pure gold
+11:pure gold
+12:pure silver
+13:pure platina
+14:mango
+15:candy
+16:smoked snake
+17:apple cake
+18:mint leaf
+19:powder
+20:sweet jelly
+21:sour jelly
+22:crab's claw
+23:nuts oil
+24:*nuts oil
+25:star prune
+26:gold peach
+27:silver peach
+28:magic banana
+29:*magic banana
+30:*magic banana
+31:half eaten nuts
+32:irritator
+33:griever
+34:teromeann
+35:manseitan
+36:larox
+37:kasseitan
+38:troron
+39:nageel
+40:*
+41:paradoxina
+42:chips of tiger's disc
+43:chips of hopper's disc
+44:chips of hare's disc
+45:chips of kato's disc
+46:chips of suezo's disc
+47:chips of naga's disc
+48:chips of gaboo's disc
+49:chips of jell's disc
+50:chips of niton's disc
+51:chips of plant's disc
+52:chips of mew's disc
+53:chips of mocchi's disc
+54:chips of zuum's disc
+55:chips of arrow head's disc
+56:chips of ape's disc
+57:chips of monol's disc
+58:bay shrimp
+59:incense
+60:shoes
+61:rice cracker
+62:*
+63:olive oil
+64:kaleidoscope
+65:torles water
+66:*
+67:perfume
+68:stick
+69:bone
+70:perfume oil
+71:wood ball
+72:cedar log
+73:pile of meat
+74:soil
+75:rock candy
+76:dummy
+77:ice of papas
+78:grease
+79:dna capsule (red)
+80:dna capsule (yellow)
+81:dna capsule (pink)
+82:dna capsule (gray)
+83:dna capsule (white)
+84:dna capsule (green)
+85:dna capsule (black)
+86:god's slate
+87:hero badge
+88:heel badge
+89:quack doll (pieces w/ instructions)
+90:dragon tusk
+91:old sheath
+92:double-edged
+93:magic pot
+94:mask
+95:big footstep
+96:big boots
+97:fire feather
+98:taurus' horn
+99:dino's tail
+100:zilla beard
+101:fun can
+102:strong glue
+103:quack doll (built)
+104:mystic seed
+105:parepare tea
+106:match
+107:toothpick
+108:playmate
+109:whetstone
+110:polish
+111:silk cloth
+112:disc dish
+113:gramophone
+114:shiny stone
+115:meteorite
+116:steamed bun
+117:razor blade
+118:ice candy
+119:fish bone
+120:sun lamp
+121:silk hat
+122:half cake
+123:shaved ice
+124:sweet potato
+125:medal
+126:gold medal
+127:silver medal
+128:music box
+129:medallion
+130:no desire
+131:battle
+132:rest
+133:play
+134:mirror
+135:colart tea
+136:galoe nut
+137:stick of ice
+138:ocean stone
+139:seaweed
+140:clay doll #1
+141:clay doll #2
+142:clay doll #3
+143:mock nut
+144:colt's cake
+145:flower
+146:chips of pixie's disc
+147:chips of dragon's disc
+148:chips of centaur's disc
+149:chips of color pandora's disc
+150:chips of beaclon's disc
+151:chips of henger's disc
+152:chips of wracky's disc
+153:chips of golem's disc
+154:chips of durahan's disc
+155:chips of baku's disc
+156:chips of gali's disc
+157:chips of zilla's disc
+158:chips of bajarl's disc
+159:chips of pheonix's disc
+160:chips of ghost's disc
+161:chips of metalner's disc
+162:chips of jill's disc
+163:chips of joker's disc
+164:chips of undine's disc
+165:chips of mock's disc
+166:chips of ducken's disc
+167:chips of worm's disc
+168:gali mask
+169:crystal
+170:undine slate
+171:reward #1
+172:reward #2
+173:stick
+174:cup jelly
+175:spear
+176:wracky doll
+177:quack doll (built /w instructions)
+178:none
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+40</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1415</ID>
+              <Description>"13"</Description>
+              <DropDownList DisplayValueAsItem="1">0:potato
+1:fish
+2:meat
+3:milk
+4:cup jelly
+5:tablet
+6:sculpture
+7:gemini's pot
+8:lump of ice
+9:fire stone
+10:*pure gold
+11:pure gold
+12:pure silver
+13:pure platina
+14:mango
+15:candy
+16:smoked snake
+17:apple cake
+18:mint leaf
+19:powder
+20:sweet jelly
+21:sour jelly
+22:crab's claw
+23:nuts oil
+24:*nuts oil
+25:star prune
+26:gold peach
+27:silver peach
+28:magic banana
+29:*magic banana
+30:*magic banana
+31:half eaten nuts
+32:irritator
+33:griever
+34:teromeann
+35:manseitan
+36:larox
+37:kasseitan
+38:troron
+39:nageel
+40:*
+41:paradoxina
+42:chips of tiger's disc
+43:chips of hopper's disc
+44:chips of hare's disc
+45:chips of kato's disc
+46:chips of suezo's disc
+47:chips of naga's disc
+48:chips of gaboo's disc
+49:chips of jell's disc
+50:chips of niton's disc
+51:chips of plant's disc
+52:chips of mew's disc
+53:chips of mocchi's disc
+54:chips of zuum's disc
+55:chips of arrow head's disc
+56:chips of ape's disc
+57:chips of monol's disc
+58:bay shrimp
+59:incense
+60:shoes
+61:rice cracker
+62:*
+63:olive oil
+64:kaleidoscope
+65:torles water
+66:*
+67:perfume
+68:stick
+69:bone
+70:perfume oil
+71:wood ball
+72:cedar log
+73:pile of meat
+74:soil
+75:rock candy
+76:dummy
+77:ice of papas
+78:grease
+79:dna capsule (red)
+80:dna capsule (yellow)
+81:dna capsule (pink)
+82:dna capsule (gray)
+83:dna capsule (white)
+84:dna capsule (green)
+85:dna capsule (black)
+86:god's slate
+87:hero badge
+88:heel badge
+89:quack doll (pieces w/ instructions)
+90:dragon tusk
+91:old sheath
+92:double-edged
+93:magic pot
+94:mask
+95:big footstep
+96:big boots
+97:fire feather
+98:taurus' horn
+99:dino's tail
+100:zilla beard
+101:fun can
+102:strong glue
+103:quack doll (built)
+104:mystic seed
+105:parepare tea
+106:match
+107:toothpick
+108:playmate
+109:whetstone
+110:polish
+111:silk cloth
+112:disc dish
+113:gramophone
+114:shiny stone
+115:meteorite
+116:steamed bun
+117:razor blade
+118:ice candy
+119:fish bone
+120:sun lamp
+121:silk hat
+122:half cake
+123:shaved ice
+124:sweet potato
+125:medal
+126:gold medal
+127:silver medal
+128:music box
+129:medallion
+130:no desire
+131:battle
+132:rest
+133:play
+134:mirror
+135:colart tea
+136:galoe nut
+137:stick of ice
+138:ocean stone
+139:seaweed
+140:clay doll #1
+141:clay doll #2
+142:clay doll #3
+143:mock nut
+144:colt's cake
+145:flower
+146:chips of pixie's disc
+147:chips of dragon's disc
+148:chips of centaur's disc
+149:chips of color pandora's disc
+150:chips of beaclon's disc
+151:chips of henger's disc
+152:chips of wracky's disc
+153:chips of golem's disc
+154:chips of durahan's disc
+155:chips of baku's disc
+156:chips of gali's disc
+157:chips of zilla's disc
+158:chips of bajarl's disc
+159:chips of pheonix's disc
+160:chips of ghost's disc
+161:chips of metalner's disc
+162:chips of jill's disc
+163:chips of joker's disc
+164:chips of undine's disc
+165:chips of mock's disc
+166:chips of ducken's disc
+167:chips of worm's disc
+168:gali mask
+169:crystal
+170:undine slate
+171:reward #1
+172:reward #2
+173:stick
+174:cup jelly
+175:spear
+176:wracky doll
+177:quack doll (built /w instructions)
+178:none
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+44</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1416</ID>
+              <Description>"14"</Description>
+              <DropDownList DisplayValueAsItem="1">0:potato
+1:fish
+2:meat
+3:milk
+4:cup jelly
+5:tablet
+6:sculpture
+7:gemini's pot
+8:lump of ice
+9:fire stone
+10:*pure gold
+11:pure gold
+12:pure silver
+13:pure platina
+14:mango
+15:candy
+16:smoked snake
+17:apple cake
+18:mint leaf
+19:powder
+20:sweet jelly
+21:sour jelly
+22:crab's claw
+23:nuts oil
+24:*nuts oil
+25:star prune
+26:gold peach
+27:silver peach
+28:magic banana
+29:*magic banana
+30:*magic banana
+31:half eaten nuts
+32:irritator
+33:griever
+34:teromeann
+35:manseitan
+36:larox
+37:kasseitan
+38:troron
+39:nageel
+40:*
+41:paradoxina
+42:chips of tiger's disc
+43:chips of hopper's disc
+44:chips of hare's disc
+45:chips of kato's disc
+46:chips of suezo's disc
+47:chips of naga's disc
+48:chips of gaboo's disc
+49:chips of jell's disc
+50:chips of niton's disc
+51:chips of plant's disc
+52:chips of mew's disc
+53:chips of mocchi's disc
+54:chips of zuum's disc
+55:chips of arrow head's disc
+56:chips of ape's disc
+57:chips of monol's disc
+58:bay shrimp
+59:incense
+60:shoes
+61:rice cracker
+62:*
+63:olive oil
+64:kaleidoscope
+65:torles water
+66:*
+67:perfume
+68:stick
+69:bone
+70:perfume oil
+71:wood ball
+72:cedar log
+73:pile of meat
+74:soil
+75:rock candy
+76:dummy
+77:ice of papas
+78:grease
+79:dna capsule (red)
+80:dna capsule (yellow)
+81:dna capsule (pink)
+82:dna capsule (gray)
+83:dna capsule (white)
+84:dna capsule (green)
+85:dna capsule (black)
+86:god's slate
+87:hero badge
+88:heel badge
+89:quack doll (pieces w/ instructions)
+90:dragon tusk
+91:old sheath
+92:double-edged
+93:magic pot
+94:mask
+95:big footstep
+96:big boots
+97:fire feather
+98:taurus' horn
+99:dino's tail
+100:zilla beard
+101:fun can
+102:strong glue
+103:quack doll (built)
+104:mystic seed
+105:parepare tea
+106:match
+107:toothpick
+108:playmate
+109:whetstone
+110:polish
+111:silk cloth
+112:disc dish
+113:gramophone
+114:shiny stone
+115:meteorite
+116:steamed bun
+117:razor blade
+118:ice candy
+119:fish bone
+120:sun lamp
+121:silk hat
+122:half cake
+123:shaved ice
+124:sweet potato
+125:medal
+126:gold medal
+127:silver medal
+128:music box
+129:medallion
+130:no desire
+131:battle
+132:rest
+133:play
+134:mirror
+135:colart tea
+136:galoe nut
+137:stick of ice
+138:ocean stone
+139:seaweed
+140:clay doll #1
+141:clay doll #2
+142:clay doll #3
+143:mock nut
+144:colt's cake
+145:flower
+146:chips of pixie's disc
+147:chips of dragon's disc
+148:chips of centaur's disc
+149:chips of color pandora's disc
+150:chips of beaclon's disc
+151:chips of henger's disc
+152:chips of wracky's disc
+153:chips of golem's disc
+154:chips of durahan's disc
+155:chips of baku's disc
+156:chips of gali's disc
+157:chips of zilla's disc
+158:chips of bajarl's disc
+159:chips of pheonix's disc
+160:chips of ghost's disc
+161:chips of metalner's disc
+162:chips of jill's disc
+163:chips of joker's disc
+164:chips of undine's disc
+165:chips of mock's disc
+166:chips of ducken's disc
+167:chips of worm's disc
+168:gali mask
+169:crystal
+170:undine slate
+171:reward #1
+172:reward #2
+173:stick
+174:cup jelly
+175:spear
+176:wracky doll
+177:quack doll (built /w instructions)
+178:none
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+48</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1417</ID>
+              <Description>"15"</Description>
+              <DropDownList DisplayValueAsItem="1">0:potato
+1:fish
+2:meat
+3:milk
+4:cup jelly
+5:tablet
+6:sculpture
+7:gemini's pot
+8:lump of ice
+9:fire stone
+10:*pure gold
+11:pure gold
+12:pure silver
+13:pure platina
+14:mango
+15:candy
+16:smoked snake
+17:apple cake
+18:mint leaf
+19:powder
+20:sweet jelly
+21:sour jelly
+22:crab's claw
+23:nuts oil
+24:*nuts oil
+25:star prune
+26:gold peach
+27:silver peach
+28:magic banana
+29:*magic banana
+30:*magic banana
+31:half eaten nuts
+32:irritator
+33:griever
+34:teromeann
+35:manseitan
+36:larox
+37:kasseitan
+38:troron
+39:nageel
+40:*
+41:paradoxina
+42:chips of tiger's disc
+43:chips of hopper's disc
+44:chips of hare's disc
+45:chips of kato's disc
+46:chips of suezo's disc
+47:chips of naga's disc
+48:chips of gaboo's disc
+49:chips of jell's disc
+50:chips of niton's disc
+51:chips of plant's disc
+52:chips of mew's disc
+53:chips of mocchi's disc
+54:chips of zuum's disc
+55:chips of arrow head's disc
+56:chips of ape's disc
+57:chips of monol's disc
+58:bay shrimp
+59:incense
+60:shoes
+61:rice cracker
+62:*
+63:olive oil
+64:kaleidoscope
+65:torles water
+66:*
+67:perfume
+68:stick
+69:bone
+70:perfume oil
+71:wood ball
+72:cedar log
+73:pile of meat
+74:soil
+75:rock candy
+76:dummy
+77:ice of papas
+78:grease
+79:dna capsule (red)
+80:dna capsule (yellow)
+81:dna capsule (pink)
+82:dna capsule (gray)
+83:dna capsule (white)
+84:dna capsule (green)
+85:dna capsule (black)
+86:god's slate
+87:hero badge
+88:heel badge
+89:quack doll (pieces w/ instructions)
+90:dragon tusk
+91:old sheath
+92:double-edged
+93:magic pot
+94:mask
+95:big footstep
+96:big boots
+97:fire feather
+98:taurus' horn
+99:dino's tail
+100:zilla beard
+101:fun can
+102:strong glue
+103:quack doll (built)
+104:mystic seed
+105:parepare tea
+106:match
+107:toothpick
+108:playmate
+109:whetstone
+110:polish
+111:silk cloth
+112:disc dish
+113:gramophone
+114:shiny stone
+115:meteorite
+116:steamed bun
+117:razor blade
+118:ice candy
+119:fish bone
+120:sun lamp
+121:silk hat
+122:half cake
+123:shaved ice
+124:sweet potato
+125:medal
+126:gold medal
+127:silver medal
+128:music box
+129:medallion
+130:no desire
+131:battle
+132:rest
+133:play
+134:mirror
+135:colart tea
+136:galoe nut
+137:stick of ice
+138:ocean stone
+139:seaweed
+140:clay doll #1
+141:clay doll #2
+142:clay doll #3
+143:mock nut
+144:colt's cake
+145:flower
+146:chips of pixie's disc
+147:chips of dragon's disc
+148:chips of centaur's disc
+149:chips of color pandora's disc
+150:chips of beaclon's disc
+151:chips of henger's disc
+152:chips of wracky's disc
+153:chips of golem's disc
+154:chips of durahan's disc
+155:chips of baku's disc
+156:chips of gali's disc
+157:chips of zilla's disc
+158:chips of bajarl's disc
+159:chips of pheonix's disc
+160:chips of ghost's disc
+161:chips of metalner's disc
+162:chips of jill's disc
+163:chips of joker's disc
+164:chips of undine's disc
+165:chips of mock's disc
+166:chips of ducken's disc
+167:chips of worm's disc
+168:gali mask
+169:crystal
+170:undine slate
+171:reward #1
+172:reward #2
+173:stick
+174:cup jelly
+175:spear
+176:wracky doll
+177:quack doll (built /w instructions)
+178:none
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+4C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1418</ID>
+              <Description>"16"</Description>
+              <DropDownList DisplayValueAsItem="1">0:potato
+1:fish
+2:meat
+3:milk
+4:cup jelly
+5:tablet
+6:sculpture
+7:gemini's pot
+8:lump of ice
+9:fire stone
+10:*pure gold
+11:pure gold
+12:pure silver
+13:pure platina
+14:mango
+15:candy
+16:smoked snake
+17:apple cake
+18:mint leaf
+19:powder
+20:sweet jelly
+21:sour jelly
+22:crab's claw
+23:nuts oil
+24:*nuts oil
+25:star prune
+26:gold peach
+27:silver peach
+28:magic banana
+29:*magic banana
+30:*magic banana
+31:half eaten nuts
+32:irritator
+33:griever
+34:teromeann
+35:manseitan
+36:larox
+37:kasseitan
+38:troron
+39:nageel
+40:*
+41:paradoxina
+42:chips of tiger's disc
+43:chips of hopper's disc
+44:chips of hare's disc
+45:chips of kato's disc
+46:chips of suezo's disc
+47:chips of naga's disc
+48:chips of gaboo's disc
+49:chips of jell's disc
+50:chips of niton's disc
+51:chips of plant's disc
+52:chips of mew's disc
+53:chips of mocchi's disc
+54:chips of zuum's disc
+55:chips of arrow head's disc
+56:chips of ape's disc
+57:chips of monol's disc
+58:bay shrimp
+59:incense
+60:shoes
+61:rice cracker
+62:*
+63:olive oil
+64:kaleidoscope
+65:torles water
+66:*
+67:perfume
+68:stick
+69:bone
+70:perfume oil
+71:wood ball
+72:cedar log
+73:pile of meat
+74:soil
+75:rock candy
+76:dummy
+77:ice of papas
+78:grease
+79:dna capsule (red)
+80:dna capsule (yellow)
+81:dna capsule (pink)
+82:dna capsule (gray)
+83:dna capsule (white)
+84:dna capsule (green)
+85:dna capsule (black)
+86:god's slate
+87:hero badge
+88:heel badge
+89:quack doll (pieces w/ instructions)
+90:dragon tusk
+91:old sheath
+92:double-edged
+93:magic pot
+94:mask
+95:big footstep
+96:big boots
+97:fire feather
+98:taurus' horn
+99:dino's tail
+100:zilla beard
+101:fun can
+102:strong glue
+103:quack doll (built)
+104:mystic seed
+105:parepare tea
+106:match
+107:toothpick
+108:playmate
+109:whetstone
+110:polish
+111:silk cloth
+112:disc dish
+113:gramophone
+114:shiny stone
+115:meteorite
+116:steamed bun
+117:razor blade
+118:ice candy
+119:fish bone
+120:sun lamp
+121:silk hat
+122:half cake
+123:shaved ice
+124:sweet potato
+125:medal
+126:gold medal
+127:silver medal
+128:music box
+129:medallion
+130:no desire
+131:battle
+132:rest
+133:play
+134:mirror
+135:colart tea
+136:galoe nut
+137:stick of ice
+138:ocean stone
+139:seaweed
+140:clay doll #1
+141:clay doll #2
+142:clay doll #3
+143:mock nut
+144:colt's cake
+145:flower
+146:chips of pixie's disc
+147:chips of dragon's disc
+148:chips of centaur's disc
+149:chips of color pandora's disc
+150:chips of beaclon's disc
+151:chips of henger's disc
+152:chips of wracky's disc
+153:chips of golem's disc
+154:chips of durahan's disc
+155:chips of baku's disc
+156:chips of gali's disc
+157:chips of zilla's disc
+158:chips of bajarl's disc
+159:chips of pheonix's disc
+160:chips of ghost's disc
+161:chips of metalner's disc
+162:chips of jill's disc
+163:chips of joker's disc
+164:chips of undine's disc
+165:chips of mock's disc
+166:chips of ducken's disc
+167:chips of worm's disc
+168:gali mask
+169:crystal
+170:undine slate
+171:reward #1
+172:reward #2
+173:stick
+174:cup jelly
+175:spear
+176:wracky doll
+177:quack doll (built /w instructions)
+178:none
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+50</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1419</ID>
+              <Description>"17"</Description>
+              <DropDownList DisplayValueAsItem="1">0:potato
+1:fish
+2:meat
+3:milk
+4:cup jelly
+5:tablet
+6:sculpture
+7:gemini's pot
+8:lump of ice
+9:fire stone
+10:*pure gold
+11:pure gold
+12:pure silver
+13:pure platina
+14:mango
+15:candy
+16:smoked snake
+17:apple cake
+18:mint leaf
+19:powder
+20:sweet jelly
+21:sour jelly
+22:crab's claw
+23:nuts oil
+24:*nuts oil
+25:star prune
+26:gold peach
+27:silver peach
+28:magic banana
+29:*magic banana
+30:*magic banana
+31:half eaten nuts
+32:irritator
+33:griever
+34:teromeann
+35:manseitan
+36:larox
+37:kasseitan
+38:troron
+39:nageel
+40:*
+41:paradoxina
+42:chips of tiger's disc
+43:chips of hopper's disc
+44:chips of hare's disc
+45:chips of kato's disc
+46:chips of suezo's disc
+47:chips of naga's disc
+48:chips of gaboo's disc
+49:chips of jell's disc
+50:chips of niton's disc
+51:chips of plant's disc
+52:chips of mew's disc
+53:chips of mocchi's disc
+54:chips of zuum's disc
+55:chips of arrow head's disc
+56:chips of ape's disc
+57:chips of monol's disc
+58:bay shrimp
+59:incense
+60:shoes
+61:rice cracker
+62:*
+63:olive oil
+64:kaleidoscope
+65:torles water
+66:*
+67:perfume
+68:stick
+69:bone
+70:perfume oil
+71:wood ball
+72:cedar log
+73:pile of meat
+74:soil
+75:rock candy
+76:dummy
+77:ice of papas
+78:grease
+79:dna capsule (red)
+80:dna capsule (yellow)
+81:dna capsule (pink)
+82:dna capsule (gray)
+83:dna capsule (white)
+84:dna capsule (green)
+85:dna capsule (black)
+86:god's slate
+87:hero badge
+88:heel badge
+89:quack doll (pieces w/ instructions)
+90:dragon tusk
+91:old sheath
+92:double-edged
+93:magic pot
+94:mask
+95:big footstep
+96:big boots
+97:fire feather
+98:taurus' horn
+99:dino's tail
+100:zilla beard
+101:fun can
+102:strong glue
+103:quack doll (built)
+104:mystic seed
+105:parepare tea
+106:match
+107:toothpick
+108:playmate
+109:whetstone
+110:polish
+111:silk cloth
+112:disc dish
+113:gramophone
+114:shiny stone
+115:meteorite
+116:steamed bun
+117:razor blade
+118:ice candy
+119:fish bone
+120:sun lamp
+121:silk hat
+122:half cake
+123:shaved ice
+124:sweet potato
+125:medal
+126:gold medal
+127:silver medal
+128:music box
+129:medallion
+130:no desire
+131:battle
+132:rest
+133:play
+134:mirror
+135:colart tea
+136:galoe nut
+137:stick of ice
+138:ocean stone
+139:seaweed
+140:clay doll #1
+141:clay doll #2
+142:clay doll #3
+143:mock nut
+144:colt's cake
+145:flower
+146:chips of pixie's disc
+147:chips of dragon's disc
+148:chips of centaur's disc
+149:chips of color pandora's disc
+150:chips of beaclon's disc
+151:chips of henger's disc
+152:chips of wracky's disc
+153:chips of golem's disc
+154:chips of durahan's disc
+155:chips of baku's disc
+156:chips of gali's disc
+157:chips of zilla's disc
+158:chips of bajarl's disc
+159:chips of pheonix's disc
+160:chips of ghost's disc
+161:chips of metalner's disc
+162:chips of jill's disc
+163:chips of joker's disc
+164:chips of undine's disc
+165:chips of mock's disc
+166:chips of ducken's disc
+167:chips of worm's disc
+168:gali mask
+169:crystal
+170:undine slate
+171:reward #1
+172:reward #2
+173:stick
+174:cup jelly
+175:spear
+176:wracky doll
+177:quack doll (built /w instructions)
+178:none
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+54</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1420</ID>
+              <Description>"18"</Description>
+              <DropDownList DisplayValueAsItem="1">0:potato
+1:fish
+2:meat
+3:milk
+4:cup jelly
+5:tablet
+6:sculpture
+7:gemini's pot
+8:lump of ice
+9:fire stone
+10:*pure gold
+11:pure gold
+12:pure silver
+13:pure platina
+14:mango
+15:candy
+16:smoked snake
+17:apple cake
+18:mint leaf
+19:powder
+20:sweet jelly
+21:sour jelly
+22:crab's claw
+23:nuts oil
+24:*nuts oil
+25:star prune
+26:gold peach
+27:silver peach
+28:magic banana
+29:*magic banana
+30:*magic banana
+31:half eaten nuts
+32:irritator
+33:griever
+34:teromeann
+35:manseitan
+36:larox
+37:kasseitan
+38:troron
+39:nageel
+40:*
+41:paradoxina
+42:chips of tiger's disc
+43:chips of hopper's disc
+44:chips of hare's disc
+45:chips of kato's disc
+46:chips of suezo's disc
+47:chips of naga's disc
+48:chips of gaboo's disc
+49:chips of jell's disc
+50:chips of niton's disc
+51:chips of plant's disc
+52:chips of mew's disc
+53:chips of mocchi's disc
+54:chips of zuum's disc
+55:chips of arrow head's disc
+56:chips of ape's disc
+57:chips of monol's disc
+58:bay shrimp
+59:incense
+60:shoes
+61:rice cracker
+62:*
+63:olive oil
+64:kaleidoscope
+65:torles water
+66:*
+67:perfume
+68:stick
+69:bone
+70:perfume oil
+71:wood ball
+72:cedar log
+73:pile of meat
+74:soil
+75:rock candy
+76:dummy
+77:ice of papas
+78:grease
+79:dna capsule (red)
+80:dna capsule (yellow)
+81:dna capsule (pink)
+82:dna capsule (gray)
+83:dna capsule (white)
+84:dna capsule (green)
+85:dna capsule (black)
+86:god's slate
+87:hero badge
+88:heel badge
+89:quack doll (pieces w/ instructions)
+90:dragon tusk
+91:old sheath
+92:double-edged
+93:magic pot
+94:mask
+95:big footstep
+96:big boots
+97:fire feather
+98:taurus' horn
+99:dino's tail
+100:zilla beard
+101:fun can
+102:strong glue
+103:quack doll (built)
+104:mystic seed
+105:parepare tea
+106:match
+107:toothpick
+108:playmate
+109:whetstone
+110:polish
+111:silk cloth
+112:disc dish
+113:gramophone
+114:shiny stone
+115:meteorite
+116:steamed bun
+117:razor blade
+118:ice candy
+119:fish bone
+120:sun lamp
+121:silk hat
+122:half cake
+123:shaved ice
+124:sweet potato
+125:medal
+126:gold medal
+127:silver medal
+128:music box
+129:medallion
+130:no desire
+131:battle
+132:rest
+133:play
+134:mirror
+135:colart tea
+136:galoe nut
+137:stick of ice
+138:ocean stone
+139:seaweed
+140:clay doll #1
+141:clay doll #2
+142:clay doll #3
+143:mock nut
+144:colt's cake
+145:flower
+146:chips of pixie's disc
+147:chips of dragon's disc
+148:chips of centaur's disc
+149:chips of color pandora's disc
+150:chips of beaclon's disc
+151:chips of henger's disc
+152:chips of wracky's disc
+153:chips of golem's disc
+154:chips of durahan's disc
+155:chips of baku's disc
+156:chips of gali's disc
+157:chips of zilla's disc
+158:chips of bajarl's disc
+159:chips of pheonix's disc
+160:chips of ghost's disc
+161:chips of metalner's disc
+162:chips of jill's disc
+163:chips of joker's disc
+164:chips of undine's disc
+165:chips of mock's disc
+166:chips of ducken's disc
+167:chips of worm's disc
+168:gali mask
+169:crystal
+170:undine slate
+171:reward #1
+172:reward #2
+173:stick
+174:cup jelly
+175:spear
+176:wracky doll
+177:quack doll (built /w instructions)
+178:none
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+58</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1421</ID>
+              <Description>"19"</Description>
+              <DropDownList DisplayValueAsItem="1">0:potato
+1:fish
+2:meat
+3:milk
+4:cup jelly
+5:tablet
+6:sculpture
+7:gemini's pot
+8:lump of ice
+9:fire stone
+10:*pure gold
+11:pure gold
+12:pure silver
+13:pure platina
+14:mango
+15:candy
+16:smoked snake
+17:apple cake
+18:mint leaf
+19:powder
+20:sweet jelly
+21:sour jelly
+22:crab's claw
+23:nuts oil
+24:*nuts oil
+25:star prune
+26:gold peach
+27:silver peach
+28:magic banana
+29:*magic banana
+30:*magic banana
+31:half eaten nuts
+32:irritator
+33:griever
+34:teromeann
+35:manseitan
+36:larox
+37:kasseitan
+38:troron
+39:nageel
+40:*
+41:paradoxina
+42:chips of tiger's disc
+43:chips of hopper's disc
+44:chips of hare's disc
+45:chips of kato's disc
+46:chips of suezo's disc
+47:chips of naga's disc
+48:chips of gaboo's disc
+49:chips of jell's disc
+50:chips of niton's disc
+51:chips of plant's disc
+52:chips of mew's disc
+53:chips of mocchi's disc
+54:chips of zuum's disc
+55:chips of arrow head's disc
+56:chips of ape's disc
+57:chips of monol's disc
+58:bay shrimp
+59:incense
+60:shoes
+61:rice cracker
+62:*
+63:olive oil
+64:kaleidoscope
+65:torles water
+66:*
+67:perfume
+68:stick
+69:bone
+70:perfume oil
+71:wood ball
+72:cedar log
+73:pile of meat
+74:soil
+75:rock candy
+76:dummy
+77:ice of papas
+78:grease
+79:dna capsule (red)
+80:dna capsule (yellow)
+81:dna capsule (pink)
+82:dna capsule (gray)
+83:dna capsule (white)
+84:dna capsule (green)
+85:dna capsule (black)
+86:god's slate
+87:hero badge
+88:heel badge
+89:quack doll (pieces w/ instructions)
+90:dragon tusk
+91:old sheath
+92:double-edged
+93:magic pot
+94:mask
+95:big footstep
+96:big boots
+97:fire feather
+98:taurus' horn
+99:dino's tail
+100:zilla beard
+101:fun can
+102:strong glue
+103:quack doll (built)
+104:mystic seed
+105:parepare tea
+106:match
+107:toothpick
+108:playmate
+109:whetstone
+110:polish
+111:silk cloth
+112:disc dish
+113:gramophone
+114:shiny stone
+115:meteorite
+116:steamed bun
+117:razor blade
+118:ice candy
+119:fish bone
+120:sun lamp
+121:silk hat
+122:half cake
+123:shaved ice
+124:sweet potato
+125:medal
+126:gold medal
+127:silver medal
+128:music box
+129:medallion
+130:no desire
+131:battle
+132:rest
+133:play
+134:mirror
+135:colart tea
+136:galoe nut
+137:stick of ice
+138:ocean stone
+139:seaweed
+140:clay doll #1
+141:clay doll #2
+142:clay doll #3
+143:mock nut
+144:colt's cake
+145:flower
+146:chips of pixie's disc
+147:chips of dragon's disc
+148:chips of centaur's disc
+149:chips of color pandora's disc
+150:chips of beaclon's disc
+151:chips of henger's disc
+152:chips of wracky's disc
+153:chips of golem's disc
+154:chips of durahan's disc
+155:chips of baku's disc
+156:chips of gali's disc
+157:chips of zilla's disc
+158:chips of bajarl's disc
+159:chips of pheonix's disc
+160:chips of ghost's disc
+161:chips of metalner's disc
+162:chips of jill's disc
+163:chips of joker's disc
+164:chips of undine's disc
+165:chips of mock's disc
+166:chips of ducken's disc
+167:chips of worm's disc
+168:gali mask
+169:crystal
+170:undine slate
+171:reward #1
+172:reward #2
+173:stick
+174:cup jelly
+175:spear
+176:wracky doll
+177:quack doll (built /w instructions)
+178:none
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+5C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1422</ID>
+              <Description>"20"</Description>
+              <DropDownList DisplayValueAsItem="1">0:potato
+1:fish
+2:meat
+3:milk
+4:cup jelly
+5:tablet
+6:sculpture
+7:gemini's pot
+8:lump of ice
+9:fire stone
+10:*pure gold
+11:pure gold
+12:pure silver
+13:pure platina
+14:mango
+15:candy
+16:smoked snake
+17:apple cake
+18:mint leaf
+19:powder
+20:sweet jelly
+21:sour jelly
+22:crab's claw
+23:nuts oil
+24:*nuts oil
+25:star prune
+26:gold peach
+27:silver peach
+28:magic banana
+29:*magic banana
+30:*magic banana
+31:half eaten nuts
+32:irritator
+33:griever
+34:teromeann
+35:manseitan
+36:larox
+37:kasseitan
+38:troron
+39:nageel
+40:*
+41:paradoxina
+42:chips of tiger's disc
+43:chips of hopper's disc
+44:chips of hare's disc
+45:chips of kato's disc
+46:chips of suezo's disc
+47:chips of naga's disc
+48:chips of gaboo's disc
+49:chips of jell's disc
+50:chips of niton's disc
+51:chips of plant's disc
+52:chips of mew's disc
+53:chips of mocchi's disc
+54:chips of zuum's disc
+55:chips of arrow head's disc
+56:chips of ape's disc
+57:chips of monol's disc
+58:bay shrimp
+59:incense
+60:shoes
+61:rice cracker
+62:*
+63:olive oil
+64:kaleidoscope
+65:torles water
+66:*
+67:perfume
+68:stick
+69:bone
+70:perfume oil
+71:wood ball
+72:cedar log
+73:pile of meat
+74:soil
+75:rock candy
+76:dummy
+77:ice of papas
+78:grease
+79:dna capsule (red)
+80:dna capsule (yellow)
+81:dna capsule (pink)
+82:dna capsule (gray)
+83:dna capsule (white)
+84:dna capsule (green)
+85:dna capsule (black)
+86:god's slate
+87:hero badge
+88:heel badge
+89:quack doll (pieces w/ instructions)
+90:dragon tusk
+91:old sheath
+92:double-edged
+93:magic pot
+94:mask
+95:big footstep
+96:big boots
+97:fire feather
+98:taurus' horn
+99:dino's tail
+100:zilla beard
+101:fun can
+102:strong glue
+103:quack doll (built)
+104:mystic seed
+105:parepare tea
+106:match
+107:toothpick
+108:playmate
+109:whetstone
+110:polish
+111:silk cloth
+112:disc dish
+113:gramophone
+114:shiny stone
+115:meteorite
+116:steamed bun
+117:razor blade
+118:ice candy
+119:fish bone
+120:sun lamp
+121:silk hat
+122:half cake
+123:shaved ice
+124:sweet potato
+125:medal
+126:gold medal
+127:silver medal
+128:music box
+129:medallion
+130:no desire
+131:battle
+132:rest
+133:play
+134:mirror
+135:colart tea
+136:galoe nut
+137:stick of ice
+138:ocean stone
+139:seaweed
+140:clay doll #1
+141:clay doll #2
+142:clay doll #3
+143:mock nut
+144:colt's cake
+145:flower
+146:chips of pixie's disc
+147:chips of dragon's disc
+148:chips of centaur's disc
+149:chips of color pandora's disc
+150:chips of beaclon's disc
+151:chips of henger's disc
+152:chips of wracky's disc
+153:chips of golem's disc
+154:chips of durahan's disc
+155:chips of baku's disc
+156:chips of gali's disc
+157:chips of zilla's disc
+158:chips of bajarl's disc
+159:chips of pheonix's disc
+160:chips of ghost's disc
+161:chips of metalner's disc
+162:chips of jill's disc
+163:chips of joker's disc
+164:chips of undine's disc
+165:chips of mock's disc
+166:chips of ducken's disc
+167:chips of worm's disc
+168:gali mask
+169:crystal
+170:undine slate
+171:reward #1
+172:reward #2
+173:stick
+174:cup jelly
+175:spear
+176:wracky doll
+177:quack doll (built /w instructions)
+178:none
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+60</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1728</ID>
+              <Description>"New Shop Item"</Description>
+              <DropDownList DisplayValueAsItem="1">0:get
+</DropDownList>
+              <VariableType>Byte</VariableType>
+              <Address>MF2.exe+3794F9</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1374</ID>
+          <Description>"Monster Data (address: main type)"</Description>
+          <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moDeactivateChildrenAsWell="1"/>
+          <LastState Value="" RealAddress="003B667C"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <GroupHeader>1</GroupHeader>
+          <Address>MF2.exe+37667C</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1385</ID>
+              <Description>"Fatigue"</Description>
+              <DropDownList DisplayValueAsItem="1">0:very well
+1:well
+20:seems well
+40:seems tired
+60:pretty tired
+80:very tired
+100:pass out
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+1F</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1386</ID>
+              <Description>"Stress"</Description>
+              <DropDownList DisplayValueAsItem="1">0:no stress
+100:full stress
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+23</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1378</ID>
+              <Description>"Type"</Description>
+              <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moDeactivateChildrenAsWell="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>862</ID>
+                  <Description>"Main"</Description>
+                  <DropDownList DisplayValueAsItem="1">0:pixie
+1:dragon
+2:centaur
+3:colorpandora
+4:beaclon
+5:henger
+6:wracky
+7:golem
+8:zuum
+9:durahan
+10:arrow head
+11:tiger
+12:hopper
+13:hare
+14:baku
+15:gali
+16:kato
+17:zilla
+18:bajarl
+19:mew
+20:phoenix
+21:ghost
+22:metalner
+23:suezo
+24:jill
+25:mocchi
+26:joker
+27:gaboo
+28:jell
+29:undine
+30:niton
+31:mock
+32:ducken
+33:plant
+34:monol
+35:ape
+36:worm
+37:naga
+38:???
+39:???
+40:???
+41:???
+</DropDownList>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Byte</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1379</ID>
+                  <Description>"Sub"</Description>
+                  <DropDownList DisplayValueAsItem="1">0:pixie
+1:dragon
+2:centaur
+3:colorpandora
+4:beaclon
+5:henger
+6:wracky
+7:golem
+8:zuum
+9:durahan
+10:arrow head
+11:tiger
+12:hopper
+13:hare
+14:baku
+15:gali
+16:kato
+17:zilla
+18:bajarl
+19:mew
+20:phoenix
+21:ghost
+22:metalner
+23:suezo
+24:jill
+25:mocchi
+26:joker
+27:gaboo
+28:jell
+29:undine
+30:niton
+31:mock
+32:ducken
+33:plant
+34:monol
+35:ape
+36:worm
+37:naga
+38:???
+39:???
+40:???
+41:???
+</DropDownList>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Byte</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1382</ID>
+              <Description>"Age"</Description>
+              <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moDeactivateChildrenAsWell="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>1383</ID>
+                  <Description>"Weeks Old"</Description>
+                  <DropDownList DisplayValueAsItem="1">8:minimum legend
+</DropDownList>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>-4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1384</ID>
+                  <Description>"Weeks Left"</Description>
+                  <DropDownList DisplayValueAsItem="1">0:dead
+base-32:minimum legend
+</DropDownList>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+18</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1381</ID>
+              <Description>"Rank"</Description>
+              <DropDownList DisplayValueAsItem="1">0:e
+1:d
+2:c
+3:b
+4:a
+5:s
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+18A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1380</ID>
+              <Description>"Hidden Abilities"</Description>
+              <DropDownList DisplayValueAsItem="1">0:none
+1021:power/grit/will/fight/fury/guard/ease/hurry/vigor
+1022:anger/grit/will/fight/fury/guard/ease/hurry/vigor
+1023:power+anger/grit/will/fight/fury/guard/ease/hurry/vigor
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>+1D0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1426</ID>
+              <Description>"Stats Page"</Description>
+              <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moDeactivateChildrenAsWell="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>1427</ID>
+                  <Description>"Life"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1428</ID>
+                  <Description>"Power"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+A</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1432</ID>
+                  <Description>"Intellect"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+12</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1430</ID>
+                  <Description>"Skill"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+E</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1431</ID>
+                  <Description>"Speed"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+10</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1429</ID>
+                  <Description>"Defense"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1433</ID>
+                  <Description>"Fame"</Description>
+                  <DropDownList DisplayValueAsItem="1">94:minimum legend
+</DropDownList>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Byte</VariableType>
+                  <Address>+20</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1435</ID>
+              <Description>"Records Page"</Description>
+              <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moDeactivateChildrenAsWell="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>1436</ID>
+                  <Description>"W"</Description>
+                  <DropDownList DisplayValueAsItem="1">32:minimum legend
+</DropDownList>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+4E</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1437</ID>
+                  <Description>"L"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+50</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1438</ID>
+                  <Description>"KO"</Description>
+                  <DropDownList DisplayValueAsItem="1">32:minimum legend
+</DropDownList>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+52</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1439</ID>
+                  <Description>"Prize"</Description>
+                  <DropDownList DisplayValueAsItem="1">65050:minimum legend
+</DropDownList>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+44</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1440</ID>
+                  <Description>"Runaway"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+58</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1442</ID>
+                  <Description>"Sickness"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+5A</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1441</ID>
+                  <Description>"Injury"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+56</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1443</ID>
+                  <Description>"Resistance"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+5C</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1444</ID>
+              <Description>"Details Page"</Description>
+              <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moDeactivateChildrenAsWell="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>1445</ID>
+                  <Description>"Style/Loyalty"</Description>
+                  <Options moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+                  <DropDownList DisplayValueAsItem="1">0 100:spartan/50
+100 100:even/100
+100 0:doting/50
+</DropDownList>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>2</ByteLength>
+                  <Address>+24</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1446</ID>
+                  <Description>"Form"</Description>
+                  <DropDownList DisplayValueAsItem="1">156:skinny
+0:normal
+100:plump
+</DropDownList>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Byte</VariableType>
+                  <Address>+26</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1447</ID>
+                  <Description>"Nature (max varies)"</Description>
+                  <DropDownList DisplayValueAsItem="1">0:default
+1024:best possible
+64512:worst possible
+-1024:worst possible
+</DropDownList>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+1C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1448</ID>
+                  <Description>"Likes"</Description>
+                  <DropDownList DisplayValueAsItem="1">0:potato
+1:fish
+2:meat
+3:milk
+4:cup jelly
+5:tablet
+6:sculpture
+7:gemini's pot
+8:lump of ice
+9:fire stone
+10:*pure gold
+11:pure gold
+12:pure silver
+13:pure platina
+14:mango
+15:candy
+16:smoked snake
+17:apple cake
+18:mint leaf
+19:powder
+20:sweet jelly
+21:sour jelly
+22:crab's claw
+23:nuts oil
+24:*nuts oil
+25:star prune
+26:gold peach
+27:silver peach
+28:magic banana
+29:*magic banana
+30:*magic banana
+31:half eaten nuts
+32:irritator
+33:griever
+34:teromeann
+35:manseitan
+36:larox
+37:kasseitan
+38:troron
+39:nageel
+40:*
+41:paradoxina
+42:chips of tiger's disc
+43:chips of hopper's disc
+44:chips of hare's disc
+45:chips of kato's disc
+46:chips of suezo's disc
+47:chips of naga's disc
+48:chips of gaboo's disc
+49:chips of jell's disc
+50:chips of niton's disc
+51:chips of plant's disc
+52:chips of mew's disc
+53:chips of mocchi's disc
+54:chips of zuum's disc
+55:chips of arrow head's disc
+56:chips of ape's disc
+57:chips of monol's disc
+58:bay shrimp
+59:incense
+60:shoes
+61:rice cracker
+62:*
+63:olive oil
+64:kaleidoscope
+65:torles water
+66:*
+67:perfume
+68:stick
+69:bone
+70:perfume oil
+71:wood ball
+72:cedar log
+73:pile of meat
+74:soil
+75:rock candy
+76:dummy
+77:ice of papas
+78:grease
+79:dna capsule (red)
+80:dna capsule (yellow)
+81:dna capsule (pink)
+82:dna capsule (gray)
+83:dna capsule (white)
+84:dna capsule (green)
+85:dna capsule (black)
+86:god's slate
+87:hero badge
+88:heel badge
+89:quack doll (pieces w/ instructions)
+90:dragon tusk
+91:old sheath
+92:double-edged
+93:magic pot
+94:mask
+95:big footstep
+96:big boots
+97:fire feather
+98:taurus' horn
+99:dino's tail
+100:zilla beard
+101:fun can
+102:strong glue
+103:quack doll (built)
+104:mystic seed
+105:parepare tea
+106:match
+107:toothpick
+108:playmate
+109:whetstone
+110:polish
+111:silk cloth
+112:disc dish
+113:gramophone
+114:shiny stone
+115:meteorite
+116:steamed bun
+117:razor blade
+118:ice candy
+119:fish bone
+120:sun lamp
+121:silk hat
+122:half cake
+123:shaved ice
+124:sweet potato
+125:medal
+126:gold medal
+127:silver medal
+128:music box
+129:medallion
+130:no desire
+131:battle
+132:rest
+133:play
+134:mirror
+135:colart tea
+136:galoe nut
+137:stick of ice
+138:ocean stone
+139:seaweed
+140:clay doll #1
+141:clay doll #2
+142:clay doll #3
+143:mock nut
+144:colt's cake
+145:flower
+146:chips of pixie's disc
+147:chips of dragon's disc
+148:chips of centaur's disc
+149:chips of color pandora's disc
+150:chips of beaclon's disc
+151:chips of henger's disc
+152:chips of wracky's disc
+153:chips of golem's disc
+154:chips of durahan's disc
+155:chips of baku's disc
+156:chips of gali's disc
+157:chips of zilla's disc
+158:chips of bajarl's disc
+159:chips of pheonix's disc
+160:chips of ghost's disc
+161:chips of metalner's disc
+162:chips of jill's disc
+163:chips of joker's disc
+164:chips of undine's disc
+165:chips of mock's disc
+166:chips of ducken's disc
+167:chips of worm's disc
+168:gali mask
+169:crystal
+170:undine slate
+171:reward #1
+172:reward #2
+173:stick
+174:cup jelly
+175:spear
+176:wracky doll
+177:quack doll (built /w instructions)
+178:none
+</DropDownList>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+102</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1449</ID>
+                  <Description>"Dislikes"</Description>
+                  <DropDownList DisplayValueAsItem="1">0:potato
+1:fish
+2:meat
+3:milk
+4:cup jelly
+5:tablet
+6:sculpture
+7:gemini's pot
+8:lump of ice
+9:fire stone
+10:*pure gold
+11:pure gold
+12:pure silver
+13:pure platina
+14:mango
+15:candy
+16:smoked snake
+17:apple cake
+18:mint leaf
+19:powder
+20:sweet jelly
+21:sour jelly
+22:crab's claw
+23:nuts oil
+24:*nuts oil
+25:star prune
+26:gold peach
+27:silver peach
+28:magic banana
+29:*magic banana
+30:*magic banana
+31:half eaten nuts
+32:irritator
+33:griever
+34:teromeann
+35:manseitan
+36:larox
+37:kasseitan
+38:troron
+39:nageel
+40:*
+41:paradoxina
+42:chips of tiger's disc
+43:chips of hopper's disc
+44:chips of hare's disc
+45:chips of kato's disc
+46:chips of suezo's disc
+47:chips of naga's disc
+48:chips of gaboo's disc
+49:chips of jell's disc
+50:chips of niton's disc
+51:chips of plant's disc
+52:chips of mew's disc
+53:chips of mocchi's disc
+54:chips of zuum's disc
+55:chips of arrow head's disc
+56:chips of ape's disc
+57:chips of monol's disc
+58:bay shrimp
+59:incense
+60:shoes
+61:rice cracker
+62:*
+63:olive oil
+64:kaleidoscope
+65:torles water
+66:*
+67:perfume
+68:stick
+69:bone
+70:perfume oil
+71:wood ball
+72:cedar log
+73:pile of meat
+74:soil
+75:rock candy
+76:dummy
+77:ice of papas
+78:grease
+79:dna capsule (red)
+80:dna capsule (yellow)
+81:dna capsule (pink)
+82:dna capsule (gray)
+83:dna capsule (white)
+84:dna capsule (green)
+85:dna capsule (black)
+86:god's slate
+87:hero badge
+88:heel badge
+89:quack doll (pieces w/ instructions)
+90:dragon tusk
+91:old sheath
+92:double-edged
+93:magic pot
+94:mask
+95:big footstep
+96:big boots
+97:fire feather
+98:taurus' horn
+99:dino's tail
+100:zilla beard
+101:fun can
+102:strong glue
+103:quack doll (built)
+104:mystic seed
+105:parepare tea
+106:match
+107:toothpick
+108:playmate
+109:whetstone
+110:polish
+111:silk cloth
+112:disc dish
+113:gramophone
+114:shiny stone
+115:meteorite
+116:steamed bun
+117:razor blade
+118:ice candy
+119:fish bone
+120:sun lamp
+121:silk hat
+122:half cake
+123:shaved ice
+124:sweet potato
+125:medal
+126:gold medal
+127:silver medal
+128:music box
+129:medallion
+130:no desire
+131:battle
+132:rest
+133:play
+134:mirror
+135:colart tea
+136:galoe nut
+137:stick of ice
+138:ocean stone
+139:seaweed
+140:clay doll #1
+141:clay doll #2
+142:clay doll #3
+143:mock nut
+144:colt's cake
+145:flower
+146:chips of pixie's disc
+147:chips of dragon's disc
+148:chips of centaur's disc
+149:chips of color pandora's disc
+150:chips of beaclon's disc
+151:chips of henger's disc
+152:chips of wracky's disc
+153:chips of golem's disc
+154:chips of durahan's disc
+155:chips of baku's disc
+156:chips of gali's disc
+157:chips of zilla's disc
+158:chips of bajarl's disc
+159:chips of pheonix's disc
+160:chips of ghost's disc
+161:chips of metalner's disc
+162:chips of jill's disc
+163:chips of joker's disc
+164:chips of undine's disc
+165:chips of mock's disc
+166:chips of ducken's disc
+167:chips of worm's disc
+168:gali mask
+169:crystal
+170:undine slate
+171:reward #1
+172:reward #2
+173:stick
+174:cup jelly
+175:spear
+176:wracky doll
+177:quack doll (built /w instructions)
+178:none
+</DropDownList>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>+104</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1452</ID>
+              <Description>"Techniques Page"</Description>
+              <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moDeactivateChildrenAsWell="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>1453</ID>
+                  <Description>"Close"</Description>
+                  <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+                  <LastState Value="" RealAddress="00000000"/>
+                  <GroupHeader>1</GroupHeader>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>1454</ID>
+                      <Description>"1st"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+192</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1482</ID>
+                      <Description>"2nd"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+194</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1483</ID>
+                      <Description>"3rd"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+196</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1484</ID>
+                      <Description>"4th"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+198</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1485</ID>
+                      <Description>"5th"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+19A</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1486</ID>
+                      <Description>"6th"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+19C</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1701</ID>
+                      <Description>"Times Used In-battle"</Description>
+                      <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moDeactivateChildrenAsWell="1"/>
+                      <LastState Value="" RealAddress="00000000"/>
+                      <GroupHeader>1</GroupHeader>
+                      <CheatEntries>
+                        <CheatEntry>
+                          <ID>1704</ID>
+                          <Description>"1st"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+193</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>1705</ID>
+                          <Description>"2nd"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+195</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>1706</ID>
+                          <Description>"3rd"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+197</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>1707</ID>
+                          <Description>"4th"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+199</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>1708</ID>
+                          <Description>"5th"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+19B</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>1709</ID>
+                          <Description>"6th"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+19D</Address>
+                        </CheatEntry>
+                      </CheatEntries>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1460</ID>
+                  <Description>"Short"</Description>
+                  <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+                  <LastState Value="" RealAddress="00000000"/>
+                  <GroupHeader>1</GroupHeader>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>1494</ID>
+                      <Description>"1st"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+19E</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1495</ID>
+                      <Description>"2nd"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+1A0</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1496</ID>
+                      <Description>"3rd"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+1A2</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1497</ID>
+                      <Description>"4th"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+1A4</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1498</ID>
+                      <Description>"5th"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+1A6</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1499</ID>
+                      <Description>"6th"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+1A8</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1702</ID>
+                      <Description>"Times Used In-battle"</Description>
+                      <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moDeactivateChildrenAsWell="1"/>
+                      <LastState Value="" RealAddress="00000000"/>
+                      <GroupHeader>1</GroupHeader>
+                      <CheatEntries>
+                        <CheatEntry>
+                          <ID>1710</ID>
+                          <Description>"1st"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+19F</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>1711</ID>
+                          <Description>"2nd"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+1A1</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>1712</ID>
+                          <Description>"3rd"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+1A3</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>1713</ID>
+                          <Description>"4th"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+1A5</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>1714</ID>
+                          <Description>"5th"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+1A7</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>1715</ID>
+                          <Description>"6th"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+1A9</Address>
+                        </CheatEntry>
+                      </CheatEntries>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1467</ID>
+                  <Description>"Mid"</Description>
+                  <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+                  <LastState Value="" RealAddress="00000000"/>
+                  <GroupHeader>1</GroupHeader>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>1500</ID>
+                      <Description>"1st"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+1AA</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1501</ID>
+                      <Description>"2nd"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+1AC</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1502</ID>
+                      <Description>"3rd"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+1AE</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1503</ID>
+                      <Description>"4th"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+1B0</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1504</ID>
+                      <Description>"5th"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+1B2</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1505</ID>
+                      <Description>"6th"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+1B4</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1703</ID>
+                      <Description>"Times Used In-battle"</Description>
+                      <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moDeactivateChildrenAsWell="1"/>
+                      <LastState Value="" RealAddress="00000000"/>
+                      <GroupHeader>1</GroupHeader>
+                      <CheatEntries>
+                        <CheatEntry>
+                          <ID>1716</ID>
+                          <Description>"1st"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+1AB</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>1717</ID>
+                          <Description>"2nd"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+1AD</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>1718</ID>
+                          <Description>"3rd"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+1AF</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>1719</ID>
+                          <Description>"4th"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+1B1</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>1720</ID>
+                          <Description>"5th"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+1B3</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>1721</ID>
+                          <Description>"6th"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+1B5</Address>
+                        </CheatEntry>
+                      </CheatEntries>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1474</ID>
+                  <Description>"Long"</Description>
+                  <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+                  <LastState Value="" RealAddress="00000000"/>
+                  <GroupHeader>1</GroupHeader>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>1506</ID>
+                      <Description>"1st"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+1B6</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1507</ID>
+                      <Description>"2nd"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+1B8</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1508</ID>
+                      <Description>"3rd"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+1BA</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1509</ID>
+                      <Description>"4th"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+1BC</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1510</ID>
+                      <Description>"5th"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+1BE</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1511</ID>
+                      <Description>"6th"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:not learned
+1:learned
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+1C0</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1700</ID>
+                      <Description>"Times Used In-battle"</Description>
+                      <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moDeactivateChildrenAsWell="1"/>
+                      <LastState Value="" RealAddress="00000000"/>
+                      <GroupHeader>1</GroupHeader>
+                      <CheatEntries>
+                        <CheatEntry>
+                          <ID>1722</ID>
+                          <Description>"1st"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+1B7</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>1723</ID>
+                          <Description>"2nd"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+1B9</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>1724</ID>
+                          <Description>"3rd"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+1BB</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>1725</ID>
+                          <Description>"4th"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+1BD</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>1726</ID>
+                          <Description>"5th"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+1BF</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>1727</ID>
+                          <Description>"6th"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Byte</VariableType>
+                          <Address>+1C1</Address>
+                        </CheatEntry>
+                      </CheatEntries>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1481</ID>
+                  <Description>"Selected (must set before battle starts)"</Description>
+                  <DropDownList DisplayValueAsItem="1">0 6 12 18:1st
+1 7 13 19:2nd
+2 8 14 20:3rd
+3 9 15 21:4th
+4 10 16 22:5th
+5 11 17 23:6th
+24 24 24 24:None
+</DropDownList>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>4</ByteLength>
+                  <Address>+1C8</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1450</ID>
+              <Description>"Cup Jelly Eaten"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+AD</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1451</ID>
+              <Description>"Item Used"</Description>
+              <DropDownList DisplayValueAsItem="1">0:no
+1:yes
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>+F6</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1608</ID>
+          <Description>"Trainer Data"</Description>
+          <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moDeactivateChildrenAsWell="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1609</ID>
+              <Description>"Records Page"</Description>
+              <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moDeactivateChildrenAsWell="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>1610</ID>
+                  <Description>"W"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>-268</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1611</ID>
+                  <Description>"L"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>-266</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1612</ID>
+                  <Description>"KO"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>-1F0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1613</ID>
+                  <Description>"Prize"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>-264</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1621</ID>
+                  <Description>"Won"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>-25C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1614</ID>
+                  <Description>"Final Rank"</Description>
+                  <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+                  <LastState Value="" RealAddress="00000000"/>
+                  <GroupHeader>1</GroupHeader>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>1620</ID>
+                      <Description>"S"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>2 Bytes</VariableType>
+                      <Address>-1F8</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1619</ID>
+                      <Description>"A"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>2 Bytes</VariableType>
+                      <Address>-1FA</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1618</ID>
+                      <Description>"B"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>2 Bytes</VariableType>
+                      <Address>-1FC</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1617</ID>
+                      <Description>"C"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>2 Bytes</VariableType>
+                      <Address>-1FE</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1616</ID>
+                      <Description>"D"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>2 Bytes</VariableType>
+                      <Address>-200</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1615</ID>
+                      <Description>"E"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>2 Bytes</VariableType>
+                      <Address>-202</Address>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1622</ID>
+              <Description>"Monsters Page"</Description>
+              <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>1623</ID>
+                  <Description>"Trained"</Description>
+                  <Options moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+                  <DropDownList DisplayValueAsItem="1">398:one of each (-enemy)
+</DropDownList>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>-250</Address>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>1624</ID>
+                      <Description>"Pixies"</Description>
+                      <DropDownList DisplayValueAsItem="1">25:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+2</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1625</ID>
+                      <Description>"Dragons"</Description>
+                      <DropDownList DisplayValueAsItem="1">15:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+4</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1626</ID>
+                      <Description>"Centaurs"</Description>
+                      <DropDownList DisplayValueAsItem="1">11:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+6</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1627</ID>
+                      <Description>"ColorPandoras"</Description>
+                      <DropDownList DisplayValueAsItem="1">5:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+8</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1628</ID>
+                      <Description>"Beaclons"</Description>
+                      <DropDownList DisplayValueAsItem="1">10:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+A</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1629</ID>
+                      <Description>"Hengers"</Description>
+                      <DropDownList DisplayValueAsItem="1">10:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+C</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1630</ID>
+                      <Description>"Wrackys"</Description>
+                      <DropDownList DisplayValueAsItem="1">12:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+E</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1631</ID>
+                      <Description>"Golems"</Description>
+                      <DropDownList DisplayValueAsItem="1">26:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+10</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1632</ID>
+                      <Description>"Zuums"</Description>
+                      <DropDownList DisplayValueAsItem="1">20::one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+12</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1633</ID>
+                      <Description>"Durahans"</Description>
+                      <DropDownList DisplayValueAsItem="1">14:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+14</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1634</ID>
+                      <Description>"Arrow Heads"</Description>
+                      <DropDownList DisplayValueAsItem="1">8:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+16</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1635</ID>
+                      <Description>"Tigers"</Description>
+                      <DropDownList DisplayValueAsItem="1">13:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+18</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1636</ID>
+                      <Description>"Hoppers"</Description>
+                      <DropDownList DisplayValueAsItem="1">13:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+1A</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1637</ID>
+                      <Description>"Hares"</Description>
+                      <DropDownList DisplayValueAsItem="1">14:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+1C</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1638</ID>
+                      <Description>"Bakus"</Description>
+                      <DropDownList DisplayValueAsItem="1">11:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+1E</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1639</ID>
+                      <Description>"Galis"</Description>
+                      <DropDownList DisplayValueAsItem="1">13:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+20</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1640</ID>
+                      <Description>"Katos"</Description>
+                      <DropDownList DisplayValueAsItem="1">9:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+22</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1641</ID>
+                      <Description>"Zillas"</Description>
+                      <DropDownList DisplayValueAsItem="1">5:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+24</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1642</ID>
+                      <Description>"Bajarls"</Description>
+                      <DropDownList DisplayValueAsItem="1">6:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+26</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1643</ID>
+                      <Description>"Mews"</Description>
+                      <DropDownList DisplayValueAsItem="1">6:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+28</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1644</ID>
+                      <Description>"Phoenixes"</Description>
+                      <DropDownList DisplayValueAsItem="1">2:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+2A</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1645</ID>
+                      <Description>"Ghosts"</Description>
+                      <DropDownList DisplayValueAsItem="1">2:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+2C</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1646</ID>
+                      <Description>"Metalners"</Description>
+                      <DropDownList DisplayValueAsItem="1">4:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+2E</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1647</ID>
+                      <Description>"Suezos"</Description>
+                      <DropDownList DisplayValueAsItem="1">17:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+30</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1648</ID>
+                      <Description>"Jills"</Description>
+                      <DropDownList DisplayValueAsItem="1">8:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+32</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1649</ID>
+                      <Description>"Mocchis"</Description>
+                      <DropDownList DisplayValueAsItem="1">11:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+34</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1650</ID>
+                      <Description>"Jokers"</Description>
+                      <DropDownList DisplayValueAsItem="1">7:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+36</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1651</ID>
+                      <Description>"Gaboos"</Description>
+                      <DropDownList DisplayValueAsItem="1">5:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+38</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1652</ID>
+                      <Description>"Jells"</Description>
+                      <DropDownList DisplayValueAsItem="1">13:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+3A</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1653</ID>
+                      <Description>"Undines"</Description>
+                      <DropDownList DisplayValueAsItem="1">3:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+3C</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1654</ID>
+                      <Description>"Nitons"</Description>
+                      <DropDownList DisplayValueAsItem="1">11:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+3E</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1655</ID>
+                      <Description>"Mocks"</Description>
+                      <DropDownList DisplayValueAsItem="1">4:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+40</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1656</ID>
+                      <Description>"Duckens"</Description>
+                      <DropDownList DisplayValueAsItem="1">5:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+42</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1657</ID>
+                      <Description>"Plants"</Description>
+                      <DropDownList DisplayValueAsItem="1">13:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+44</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1658</ID>
+                      <Description>"Monols"</Description>
+                      <DropDownList DisplayValueAsItem="1">15:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+46</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1659</ID>
+                      <Description>"Apes"</Description>
+                      <DropDownList DisplayValueAsItem="1">6:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+48</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1660</ID>
+                      <Description>"Worms"</Description>
+                      <DropDownList DisplayValueAsItem="1">13:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+4A</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1661</ID>
+                      <Description>"Nagas"</Description>
+                      <DropDownList DisplayValueAsItem="1">13:one of each subtype
+</DropDownList>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>+4C</Address>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1662</ID>
+          <Description>"Card Data"</Description>
+          <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moDeactivateChildrenAsWell="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1663</ID>
+              <Description>"001 Pixie"</Description>
+              <DropDownList DisplayValueAsItem="1">0:not obtained
+1:obtained
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>-1A0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1729</ID>
+              <Description>"–"</Description>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1664</ID>
+              <Description>"415 Boxer Bajarl"</Description>
+              <DropDownList DisplayValueAsItem="1">0:not obtained
+1:obtained
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>-2</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1166</ID>
+      <Description>"Battle Pointers"</Description>
+      <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moDeactivateChildrenAsWell="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1672</ID>
+          <Description>"Life (opponent)"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"MF2.exe"+01D036B8</Address>
+          <Offsets>
+            <Offset>10</Offset>
+            <Offset>58</Offset>
+            <Offset>94</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1674</ID>
+          <Description>"Guts (opponent)"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"MF2.exe"+01D036B8</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>58</Offset>
+            <Offset>94</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1699</ID>
+      <Description>"Expedition Energy (address: energy)"</Description>
+      <VariableType>2 Bytes</VariableType>
+      <Address>MF2.exe+1DE8B84</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols>
+    <SymbolEntry>
+      <Name>gold</Name>
+      <Address>7FF7D20FCC25</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>actions_save</Name>
+      <Address>7FF618840000</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>att_search</Name>
+      <Address>7FF6494E30A0</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>combat_turn</Name>
+      <Address>7FF7A088D707</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>combat_turn_ptr</Name>
+      <Address>7FF79F920021</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>last_item_moved</Name>
+      <Address>7FF7A08EE77B</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>last_item_moved_ptr</Name>
+      <Address>7FF79F910021</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>full_durability</Name>
+      <Address>7FF7A09C36FD</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>pot_vhigh</Name>
+      <Address>4051E398</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>ls_vhigh</Name>
+      <Address>4051E028</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>marker_bb</Name>
+      <Address>4051E0F0</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>loot_nemgear</Name>
+      <Address>3FA03C48</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>ps1</Name>
+      <Address>151ED001C</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>coordp</Name>
+      <Address>13FFE0115</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>ewpt</Name>
+      <Address>13FFE011D</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>ert</Name>
+      <Address>13FFE0125</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>wpX</Name>
+      <Address>13FFD003A</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>wpZ</Name>
+      <Address>13FFD0042</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>wpY</Name>
+      <Address>13FFD004A</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>retX</Name>
+      <Address>13FFC003A</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>retZ</Name>
+      <Address>13FFC0042</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>retY</Name>
+      <Address>13FFC004A</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>infstam</Name>
+      <Address>14F175416</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>infdur</Name>
+      <Address>141C6DEAC</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>infmantleuse</Name>
+      <Address>14E75D7EF</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>infmantleuse2</Name>
+      <Address>14E7571F9</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>infmantleuse3</Name>
+      <Address>14E758651</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>mantlecd</Name>
+      <Address>14E75D43F</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>nopgcd</Name>
+      <Address>141BBE83C</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>scoutflylvl</Name>
+      <Address>14174F61A</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>scfll</Name>
+      <Address>14E351280</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>scfll2</Name>
+      <Address>141750059</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>inflv</Name>
+      <Address>14E601286</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>zeni</Name>
+      <Address>14F4524A0</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>hrexpmul</Name>
+      <Address>14F44EADC</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>palicoexpmul</Name>
+      <Address>14F49C6F0</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>pgadmul</Name>
+      <Address>14F49C966</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>monresearchmul</Name>
+      <Address>14F490F3C</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>monresp</Name>
+      <Address>14E3512AA</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>cannonsal</Name>
+      <Address>14DD896FF</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>cannonsnsf</Name>
+      <Address>14DD87BDA</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>pcoords</Name>
+      <Address>141922FAA</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>getwp</Name>
+      <Address>141984E2C</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>getretdata</Name>
+      <Address>141BDE20C</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>InfGather1AOB</Name>
+      <Address>14F0D001D</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>InfGather2AOB</Name>
+      <Address>14F0D0212</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>invest</Name>
+      <Address>14E603279</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>bbp1</Name>
+      <Address>141663FC8</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>bbp2</Name>
+      <Address>141664018</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>instgsch</Name>
+      <Address>141C71A07</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>infspirit</Name>
+      <Address>146E4E863</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>infdemonmode</Name>
+      <Address>14E219978</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>hammerch</Name>
+      <Address>146AD00B3</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>hpcaa</Name>
+      <Address>141C7756D</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>infglammonte</Name>
+      <Address>141C7B4C0</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>infglwsnte</Name>
+      <Address>141C7B7D9</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>noglcd</Name>
+      <Address>14721AAB0</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>fcswa</Name>
+      <Address>147751268</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>cbiphaw</Name>
+      <Address>146E40132</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>cbacsw</Name>
+      <Address>141C8387C</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>cbacsh</Name>
+      <Address>141C83851</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>infhhbd</Name>
+      <Address>1472A0736</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>extractdur</Name>
+      <Address>147741C73</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>infigstam</Name>
+      <Address>141C8A72C</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>infigja</Name>
+      <Address>141411CF8</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>allammo</Name>
+      <Address>146A056D0</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>allammo2</Name>
+      <Address>141C95732</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>infwyvernblast</Name>
+      <Address>147739B7F</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>infhbgsa</Name>
+      <Address>14D267D2B</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>infhbgsa2</Name>
+      <Address>141C959CB</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>allcoating</Name>
+      <Address>1414774A2</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>mbc1</Name>
+      <Address>141C8DCCA</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>mbc2</Name>
+      <Address>141C8E6F6</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>abstam</Name>
+      <Address>146B68A10</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>iar</Name>
+      <Address>14144BF4C</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>iar2</Name>
+      <Address>14144BF46</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>setmapzoom</Name>
+      <Address>141992665</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>maxsetb</Name>
+      <Address>14F14C4AF</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>armorskm</Name>
+      <Address>14F14C4D7</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>unlockcharms</Name>
+      <Address>141ACE935</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>unlockdec</Name>
+      <Address>141ACE902</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>unlockaug</Name>
+      <Address>141ACE8E8</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>unlockarmorwea2</Name>
+      <Address>1411E3581</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>targethealthaob</Name>
+      <Address>14EE279BC</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>ppaa</Name>
+      <Address>14E8AB12E</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>herosaa</Name>
+      <Address>14E8ABF50</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>herosaa2</Name>
+      <Address>14E8ABF62</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>rsaa</Name>
+      <Address>14E8AB1A9</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>superbuff</Name>
+      <Address>1472A0724</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>lpactt</Name>
+      <Address>14E8AAF16</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>lptdec</Name>
+      <Address>14E8AAEBE</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>targethealth</Name>
+      <Address>151EA0064</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>infitemuse1</Name>
+      <Address>14144C914</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>infitemuse2</Name>
+      <Address>14E8DCBE4</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>infsla</Name>
+      <Address>146A0513B</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>gSaveData</Name>
+      <Address>05A10000</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>mDropSetup</Name>
+      <Address>13C155B0000</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>nMinItem</Name>
+      <Address>1E216690000</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>fAbpMUL</Name>
+      <Address>23688870160</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>fExpMUL</Name>
+      <Address>1E216690010</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>nMinGil</Name>
+      <Address>23688870180</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>fMovSpdMUL</Name>
+      <Address>23688870190</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>CodeCave</Name>
+      <Address>7FF76B9A0000</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>__</Name>
+      <Address>7FF76B9A1000</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>specValue</Name>
+      <Address>20CD74B0000</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>independ</Name>
+      <Address>CC5DA4C218</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>nokickaddress</Name>
+      <Address>CC5DA40410</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>wintherclothes</Name>
+      <Address>E19F3CE060</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>imbored</Name>
+      <Address>7FF7A4C71E0D</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>GettingPointer</Name>
+      <Address>7FF7A4C71E26</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>SkipLegal</Name>
+      <Address>13FEB8B83</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>GetPTR</Name>
+      <Address>140561E29</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>newmem2</Name>
+      <Address>00620010</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>messageRepoP</Name>
+      <Address>140E1683C</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>newmem69</Name>
+      <Address>006A0000</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>myoffset3</Name>
+      <Address>00630060</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>myoffset6</Name>
+      <Address>00630000</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>AutoPilotAdr2Backup</Name>
+      <Address>13FFF0000</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>myoffset2</Name>
+      <Address>00630070</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>myoffset4</Name>
+      <Address>00630050</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>myoffset5</Name>
+      <Address>00630040</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>lameoffset</Name>
+      <Address>00630030</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>lameoffset1337</Name>
+      <Address>00640000</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>offsetsforfags6</Name>
+      <Address>00630010</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>WalkingAnimationsSpeed</Name>
+      <Address>1410B555C</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>valueTargetMem</Name>
+      <Address>00610020</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>randomvalue</Name>
+      <Address>00670000</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>Time</Name>
+      <Address>00620000</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>inj_invoffsets</Name>
+      <Address>14CFA52C7</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>inj_statsmission</Name>
+      <Address>149FAA6C4</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>inj_palicopet</Name>
+      <Address>149FAF193</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>p_inv1</Name>
+      <Address>13FFF0097</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>p_inv2</Name>
+      <Address>13FFF009F</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>p_inv3</Name>
+      <Address>13FFF00A7</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>p_inv4</Name>
+      <Address>13FFF00AF</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>infitemuse</Name>
+      <Address>14C19077C</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>hampc</Name>
+      <Address>141C7586C</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>nopgcd2</Name>
+      <Address>141BBA0DC</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>maxbowcharge</Name>
+      <Address>141C8C715</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>p_playerstats</Name>
+      <Address>13FF9001E</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>p_investigation</Name>
+      <Address>152DC004C</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>events_listadd1</Name>
+      <Address>141730304</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>events_listadd2</Name>
+      <Address>14173040A</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>events_enable1</Name>
+      <Address>14AA98631</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>events_enable2</Name>
+      <Address>14AA99339</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>maxskills</Name>
+      <Address>147995E3C</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>maxskills2</Name>
+      <Address>14F14C4D7</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>inj_gathertracks</Name>
+      <Address>141BFCAC3</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>inventory</Name>
+      <Address>90060098</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>inj_catchpet</Name>
+      <Address>14191E2DD</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>inj_mapfunc_pet</Name>
+      <Address>141013120</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>inj_gatherwish</Name>
+      <Address>14144A540</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>inj_pchar</Name>
+      <Address>1468D2B8C</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob_statsmission</Name>
+      <Address>14D1746A0</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob_palicopet</Name>
+      <Address>14D1778CB</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob_layeredarmor</Name>
+      <Address>14F45B041</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>inj_playerstats</Name>
+      <Address>141BDE350</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>p_gamedb</Name>
+      <Address>3581F540</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>inj_rewards</Name>
+      <Address>141A78563</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>inj_investigation</Name>
+      <Address>14E3AA817</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>inj_investigation_ms</Name>
+      <Address>14E62E041</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>infhealth</Name>
+      <Address>14EA9063C</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>infhealth2</Name>
+      <Address>14EA90CFD</Address>
+    </SymbolEntry>
+  </UserdefinedSymbols>
+  <Comments>X-(Y+(Y/4)) = correct remaining lifespan
+X = max remaining weeks
+Y = current age
+</Comments>
+  <LuaScript>function cycleFullCompact(sender,force) local state = not(compactmenuitem.Caption == 'Compact View Mode'); if force~=nil then state = not force end; compactmenuitem.Caption = state and 'Compact View Mode' or 'Full View Mode'; getMainForm().Splitter1.Visible = state; getMainForm().Panel4.Visible    = state; getMainForm().Panel5.Visible    = state; end; function addCompactMenu() if compactmenualreadyexists then return end; local parent = getMainForm().Menu.Items; compactmenuitem = createMenuItem(parent); parent.add(compactmenuitem); compactmenuitem.Caption = 'Compact View Mode'; compactmenuitem.OnClick = cycleFullCompact; compactmenualreadyexists = 'yes'; end; addCompactMenu(); cycleFullCompact(nil,true)
+</LuaScript>
+</CheatTable>
